@@ -19,5 +19,13 @@ Examines the ways people experience the realm of sound and how perceptions and t
 
 ### Requirements
 
-Students will read assigned texts in advance of each of the class sessions for which texts are listed and contribute short comments (3–4 sentences) just prior to these meetings. These comments will serve as jumping off points   
+Students will read assigned texts in advance of each of the class sessions for which texts are listed and contribute short comments (3–4 sentences) just prior to these meetings. These comments will serve as jumping off points    
 for class discussion.
+
+*Sound Object*
+
+Students will create a sound object — a musical or sound art composition, a soundscape, a podcast, a mash-up, a supercut—by semester’s end. In-class sessions will provide guidance on digital audio workstations, mixing, studio use. An aspirational goal of the class will be to create an album we can post on [bandcamp](https://bandcamp.com/).
+
+*Papers*
+
+Students will write a short (1500 words) paper due during Session 6, on any aspect of the readings up through that date that have inspired them and that may inflect the making of their class sound object. A final paper (also 1500 words or so) should accompany the sound object, pointing to readings that have been useful, to the object’s intent, and more. Details to be discussed in class.
