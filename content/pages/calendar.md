@@ -24,7 +24,17 @@ DUE DATES
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
+
 \[H\] Soundscapes, Acoustemologies, Space, Culture 
+
+*Sound/Video Examples and Excerpts in Class*
+
+Steven Feld. 1991. [*Voices Of The Rainforest: A Day In The Life Of The Kaluli People*](https://folkways.si.edu/voices-of-the-rainforest/world/music/album/smithsonian)*.* Rykodisc.
+
+Emily Thompson, Scott Mahoy, Ben Johnston. 2019. “[The Roaring Twenties: An Interactive Exploration of the Historical Soundscape of New York City](http://nycitynoise.com/)"
+
+“[Alvin Lucier - I Am Sitting In A Room](https://www.youtube.com/watch?v=fAxHlLK3Oyk).” 1969. YouTube.
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -90,7 +100,7 @@ Paper 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and   
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and    
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
