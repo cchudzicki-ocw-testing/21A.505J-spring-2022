@@ -32,8 +32,8 @@ DUE DATES
 - [*Voices Of The Rainforest: A Day In The Life Of The Kaluli People*](https://folkways.si.edu/voices-of-the-rainforest/world/music/album/smithsonian)*.* Steven Feld. Rykodisc, 1991. 
 - “[The Roaring Twenties: An Interactive Exploration of the Historical Soundscape of New York City](http://nycitynoise.com/).” Emily Thompson, Scott Mahoy, and Ben Johnston. 2019. 
 - “[Alvin Lucier - I Am Sitting In A Room](https://www.youtube.com/watch?v=fAxHlLK3Oyk).” 1969. YouTube.
-- “[I Am Sitting in a Zoom](https://timshaw.bandcamp.com/album/i-am-sitting-in-a-zoom).” Tim Shaw and John Bowers. 2020. 
-- “[Here We All Are (Lucier Mix)](https://amplify2020.bandcamp.com/album/here-we-all-are-lucier-mix).” Cathy Lane. 2020.
+- “[I Am Sitting in a Zoom](https://timshaw.bandcamp.com/album/i-am-sitting-in-a-zoom).” Tim Shaw and John Bowers. 2020. bandcamp.
+- “[Here We All Are (Lucier Mix)](https://amplify2020.bandcamp.com/album/here-we-all-are-lucier-mix).” Cathy Lane. 2020. bandcamp.
 - “[Convolution Reverb](https://www.ableton.com/en/packs/convolution-reverb/).” Advertised and explained by Ableton.
 - “[Sound System Outernational 2, 2nd July 2016](https://vimeo.com/184107481).” Vimeo.
 - [*Lovers Rock*](https://www.imdb.com/title/tt10551102/?ref_=fn_al_tt_5). Directed by Steve McQueen. Color, 70 min. 2020.  
