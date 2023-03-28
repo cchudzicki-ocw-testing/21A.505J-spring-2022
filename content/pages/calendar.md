@@ -91,7 +91,7 @@ Sound object proposal due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1e
 - “[Led Zeppelin - Backward Masking 1983 (Televangelist)](https://www.youtube.com/watch?v=epCmTZx174A).” (Televangelists play Led Zeppelin backward on Trinity Broadcasting Network, 1983.) YouTube.
 - “[The Loudness War](https://www.youtube.com/watch?v=3J91GEmTio0).” YouTube.
 - “[How a Suzanne Vega Song Helped Create the MP3](https://www.youtube.com/watch?v=OeE5t7aJVsI).” YouTube.
-- Iron Maiden’s “[The Number of the Beas](https://coryarcangel.com/downloads/Cory-Arcangel-666.mp3)t” compressed 666 times. Cory Arcangel.
+- Iron Maiden’s “[The Number of the Beast](https://coryarcangel.com/downloads/Cory-Arcangel-666.mp3),” compressed 666 times. Cory Arcangel.
 
 *Film in class*
 
