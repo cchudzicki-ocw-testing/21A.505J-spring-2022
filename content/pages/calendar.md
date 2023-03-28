@@ -47,7 +47,7 @@ DUE DATES
 
 \[C\] Make a Beat to Share in Class
 
-*Guest discussion: Toshiya Ueno, author, DJ, professor from Japan*
+Guest: Toshiya Ueno, author, DJ, professor from Japan.
 
 {{< tdclose >}}{{< tdopen >}}
 Beat due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
@@ -59,15 +59,16 @@ Beat due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignme
 
 *Sound/Video Examples and Excerpts in Class*
 
-“[Au Clair de la Lune](https://dusttodigital.bandcamp.com/album/au-clair-de-la-lune)” phonautogram. Éduoard-Léon Scott de Martinville. 1860, audified in 2008. bandcamp.
+- “[Au Clair de la Lune](https://dusttodigital.bandcamp.com/album/au-clair-de-la-lune)” phonautogram. Éduoard-Léon Scott de Martinville. 1860, audified in 2008. bandcamp.
+- “[Human Speech From a Piano…](https://ledgernote.com/blog/interesting/human-speech-piano/)” (Speech spectrogram transformed to MIDI to activate “speaking” player piano.) Ledgernote. 
+- “[Pianos Can Emulate Human Voices, Apparently](https://killscreen.com/previously/articles/pianos-can-emulate-human-voices-apparently/).”  (Spectrogram of Bee Gees’ “Stayin’ Alive” transformed to MIDI to activate player piano.) Kill Screen.
+- “[telharmonium documental 1.mp4](https://www.youtube.com/watch?v=TunkjJvbrHs).” (*Magic Music from the Telharmonium*. Reynold Weidenaar. Magnetic Music, 2006.) YouTube.
+- “[CYMATICS: Science Vs. Music - Nigel Stanford](https://www.youtube.com/watch?v=Q3oItpVa9fs).” 2014. YouTube. 
+- “[What do cochlear implants sound like? - 2: music](https://auditoryneuroscience.com/prosthetics/music).” (Simulation of Ludwig van Beethoven's "Kreutzer Sonata," through cochlear implant.) Auditory Neuroscience.
+- “[Synapse: Robin Fox and the Bionic Ear](https://www.youtube.com/watch?v=HLX-rPsphV8).” YouTube.
+- “[D-PAN Interview: Christine Sun Kim - Sound Artist](https://www.youtube.com/watch?v=cW3ZeoM5PsE).” YouTube.
 
-“[Human Speech From a Piano…](https://ledgernote.com/blog/interesting/human-speech-piano/)” (Speech spectrogram transformed to MIDI to activate “speaking” player piano.) Ledgernote. 
-
-“[Pianos Can Emulate Human Voices, Apparently](https://killscreen.com/previously/articles/pianos-can-emulate-human-voices-apparently/).”  (Spectrogram of Bee Gees’ “Stayin’ Alive” transformed to MIDI to activate player piano.) Kill Screen.
-
-“[telharmonium documental 1.mp4](https://www.youtube.com/watch?v=TunkjJvbrHs).” (*Magic Music from the Telharmonium*. Reynold Weidenaar. Magnetic Music, 2006.) YouTube.
-
-“[CYMATICS: Science Vs. Music - Nigel Stanford](https://www.youtube.com/watch?v=Q3oItpVa9fs).” 2014. YouTube. 
+Guest: Dr. Beth Semel, MIT Department of Anthropology.
 
 {{< tdclose >}}{{< tdopen >}}
  
