@@ -5,7 +5,7 @@ draft: false
 title: Calendar
 uid: 4b15eebb-b71a-407b-805f-b455ed1dc730
 ---
-\[C\] Session taught by Prof. Ian Condry.
+\[C\] Session taught by Prof. Ian Condry
 
 \[H\] Session taught by Prof. Stefan Helmreich
 
@@ -27,7 +27,7 @@ DUE DATES
 
 \[H\] Soundscapes, Acoustemologies, Space, Culture 
 
-*Sound/Video Examples and Excerpts in Class*
+*Sound/video examples and excerpts in class*
 
 - [*Voices Of The Rainforest: A Day In The Life Of The Kaluli People*](https://folkways.si.edu/voices-of-the-rainforest/world/music/album/smithsonian)*.* Steven Feld. Rykodisc, 1991. 
 - “[The Roaring Twenties: An Interactive Exploration of the Historical Soundscape of New York City](http://nycitynoise.com/).” Emily Thompson, Scott Mahoy, and Ben Johnston. 2019. 
@@ -50,14 +50,14 @@ DUE DATES
 Guest: Toshiya Ueno, author, DJ, professor from Japan.
 
 {{< tdclose >}}{{< tdopen >}}
-Beat due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
+Beat sharing due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 
 \[H\] Listening Machines
 
-*Sound/Video Examples and Excerpts in Class*
+*Sound/video examples and excerpts in class*
 
 - “[Au Clair de la Lune](https://dusttodigital.bandcamp.com/album/au-clair-de-la-lune)” phonautogram. Éduoard-Léon Scott de Martinville. 1860, audified in 2008. bandcamp.
 - “[Human Speech From a Piano…](https://ledgernote.com/blog/interesting/human-speech-piano/)” (Speech spectrogram transformed to MIDI to activate “speaking” player piano.) Ledgernote. 
@@ -77,11 +77,26 @@ Guest: Dr. Beth Semel, MIT Department of Anthropology.
 {{< tdclose >}}{{< tdopen >}}
 \[C\] Propose the Sound Object You Will Work on this Term; Bring a Clip to Demo Ideas
 {{< tdclose >}}{{< tdopen >}}
- 
+Sound object proposal due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
+
 \[H\] Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming
+
+*Sound/video examples and excerpts in class*
+
+- “[1903 Edison Phonograph Recording Demo | Maker Faire Detroit](https://www.youtube.com/watch?v=wRTgl0qx6wE).” (Clara Deck, Henry Ford Museum conservator demonstrates Edison phonograph.) YouTube.
+- “[Raymond Cass Audio - 1](https://www.youtube.com/watch?v=9LJlvB9kOVo).” (Raymond Cass on electronic voice phenomena.) YouTube.
+- “[Led Zeppelin - Backward Masking 1983 (Televangelist)](https://www.youtube.com/watch?v=epCmTZx174A).” (Televangelists play Led Zeppelin backward on Trinity Broadcasting Network, 1983.) YouTube.
+- “[The Loudness War](https://www.youtube.com/watch?v=3J91GEmTio0).” YouTube.
+- “[How a Suzanne Vega Song Helped Create the MP3](https://www.youtube.com/watch?v=OeE5t7aJVsI).” YouTube.
+- Iron Maiden’s “[The Number of the Beas](https://coryarcangel.com/downloads/Cory-Arcangel-666.mp3)t” compressed 666 times. Cory Arcangel.
+
+*Film in class*
+
+[*Scratch*](https://www.imdb.com/title/tt0143861/?ref_=nv_sr_srsg_7). Directed by Doug Pray. Color, 92 min. 2001.
+
 {{< tdclose >}}{{< tdopen >}}
 Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
