@@ -29,7 +29,7 @@ DUE DATES
 
 *Sound/Video Examples and Excerpts in Class*
 
-- [*Voices Of The Rainforest: A Day In The Life Of The Kaluli People*](https://folkways.si.edu/voices-of-the-rainforest/world/music/album/smithsonian)*.* Steven Feld. Rykodisc. 1991. 
+- [*Voices Of The Rainforest: A Day In The Life Of The Kaluli People*](https://folkways.si.edu/voices-of-the-rainforest/world/music/album/smithsonian)*.* Steven Feld. Rykodisc, 1991. 
 - “[The Roaring Twenties: An Interactive Exploration of the Historical Soundscape of New York City](http://nycitynoise.com/).” Emily Thompson, Scott Mahoy, and Ben Johnston. 2019. 
 - “[Alvin Lucier - I Am Sitting In A Room](https://www.youtube.com/watch?v=fAxHlLK3Oyk).” 1969. YouTube.
 - “[I Am Sitting in a Zoom](https://timshaw.bandcamp.com/album/i-am-sitting-in-a-zoom).” Tim Shaw and John Bowers. 2020. 
@@ -44,13 +44,31 @@ DUE DATES
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
+
 \[C\] Make a Beat to Share in Class
+
+*Guest discussion: Toshiya Ueno, author, DJ, professor from Japan*
+
 {{< tdclose >}}{{< tdopen >}}
- 
+Beat due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
+
 \[H\] Listening Machines
+
+*Sound/Video Examples and Excerpts in Class*
+
+“[Au Clair de la Lune](https://dusttodigital.bandcamp.com/album/au-clair-de-la-lune)” phonautogram. Éduoard-Léon Scott de Martinville. 1860, audified in 2008. bandcamp.
+
+“[Human Speech From a Piano…](https://ledgernote.com/blog/interesting/human-speech-piano/)” (Speech spectrogram transformed to MIDI to activate “speaking” player piano.) Ledgernote. 
+
+“[Pianos Can Emulate Human Voices, Apparently](https://killscreen.com/previously/articles/pianos-can-emulate-human-voices-apparently/).”  (Spectrogram of Bee Gees’ “Stayin’ Alive” transformed to MIDI to activate player piano.) Kill Screen.
+
+“[telharmonium documental 1.mp4](https://www.youtube.com/watch?v=TunkjJvbrHs).” (*Magic Music from the Telharmonium*. Reynold Weidenaar. Magnetic Music, 2006.) YouTube.
+
+“[CYMATICS: Science Vs. Music - Nigel Stanford](https://www.youtube.com/watch?v=Q3oItpVa9fs).” 2014. YouTube. 
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -64,7 +82,7 @@ DUE DATES
 {{< tdclose >}}{{< tdopen >}}
 \[H\] Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming
 {{< tdclose >}}{{< tdopen >}}
-Paper 1 due
+Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -106,5 +124,5 @@ Paper 1 due
 {{< tdclose >}}{{< tdopen >}}
 \[C & H\] Discussion and reflection on final recording projects, processes of learning, and participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
-Sound object and paper 2 due
+Sound object and Paper 2 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
