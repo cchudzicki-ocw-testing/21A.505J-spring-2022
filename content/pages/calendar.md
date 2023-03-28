@@ -102,13 +102,39 @@ Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assig
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
+
 \[C\] Mid-Term Sharing of Sound Object Project
+
+*Please come to class prepared to share a sample of your work so far on your sound object, duration of roughly 1 1/2 to 4 minutes long. Length is flexible. Consider the goals of the sound object production too, and try to incorporate various combinations of sampling, recording, MIDI, mixing, adding effects, spatializing, etc. Please also come ready to discuss your process, the skills you've learned or worked on, some of your discoveries, and some of your outstanding questions and concerns. This is about making a sound object, but it's also about reflecting on the learning process, how we adapt to uncertainty, and the complex experience of "making something for ourselves" alongside "sharing with others."*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
+
 \[C & H\] Sound, Culture, Technology, Property
+
+*Sound/video examples and excerpts in class*
+
+“[8 Led Zeppelin Songs That 'Rip Off' Other Songs](https://www.youtube.com/watch?v=efuOELImxAc).” 2021. YouTube.
+
+“[Copyright Criminals - Trailer](https://www.youtube.com/watch?v=frlKBi9wAyA).” 2010. YouTube.
+
+“[U2: How Negativland Exposed U2's Hypocrisy](https://www.youtube.com/watch?v=yy11T6Ri0hk).” 2020. YouTube.
+
+“[Negativland - Still Haven't Found What I'm Looking For (Special Edit Radio Mix)](https://www.youtube.com/watch?v=AVroc7RvNeU).” 1991. YouTube.
+
+“[Madonna - What the F\*ck Do You Think You're Doing?](https://www.youtube.com/watch?v=XU5xC00m-gA)” 2003. YouTube.
+
+[*Xerophonics: Copying Machine Music*](https://open.spotify.com/album/5goxyvy7R96Pg0ibNiteGl). Stefan Helmreich. 2003. Spotify.
+
+ “[The Harley-Davidson Sound Trademark](https://www.svw.co.za/the-harley-davidson-sound-trademark/).” Smit & Van Wyk. 
+
+“[DJ /rupture - Gold Teeth Thief](https://www.youtube.com/watch?v=9y6IbLbypWo).” 2001. YouTube.
+
+Boone, Christine. “[Gendered Power Relationships in Mashups](https://mtosmt.org/issues/mto.18.24.1/mto.18.24.1.boone.html).” *Music Theory Online* 24, no. 1 (2018).
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
