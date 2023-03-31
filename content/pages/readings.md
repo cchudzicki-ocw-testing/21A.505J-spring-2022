@@ -26,7 +26,11 @@ No readings assigned.
 {{< tdclose >}}{{< tdopen >}}
 \[H\] Soundscapes, Acoustemologies, Space, Culture 
 {{< tdclose >}}{{< tdopen >}}
+
 Schafer, R. Murray. “Introduction.” In *The Soundscape: Our Sonic Environment and the Tuning of the World*. Destiny Books, 1993. ISBN: ‎9780892814558. \[Preview with [Google Books](https://www.google.com/books/edition/The_Soundscape/-FsoDwAAQBAJ?hl=en&gbpv=1)\]
+
+Feld, Steven. “A Rainforest Acoustemology.” Chapter 12 in *The Auditory Culture Reader*. 1<sup>st</sup> ed. Edited by Michael Bull and Les Back. Berg Publishers, 2004. ISBN: ‎9781859736180.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
@@ -90,7 +94,7 @@ Paper 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and     
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and      
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
