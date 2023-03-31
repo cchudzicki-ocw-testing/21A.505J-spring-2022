@@ -5,7 +5,7 @@ draft: false
 title: Readings
 uid: d1c213c0-a354-4d24-9f7b-03ce0ef56f6c
 ---
-\[C\] Session taught by Prof. Ian Condry.
+\[C\] Session taught by Prof. Ian Condry
 
 \[H\] Session taught by Prof. Stefan Helmreich
 
@@ -20,13 +20,13 @@ READINGS
 {{< tdclose >}}{{< tdopen >}}
 \[C & H\] Introduction to the Course 
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
 \[H\] Soundscapes, Acoustemologies, Space, Culture 
 {{< tdclose >}}{{< tdopen >}}
- 
+Schafer, R. Murray. “Introduction.” In *The Soundscape: Our Sonic Environment and the Tuning of the World*. Destiny Books, 1993. ISBN: ‎9780892814558. \[Preview with [Google Books](https://www.google.com/books/edition/The_Soundscape/-FsoDwAAQBAJ?hl=en&gbpv=1)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
@@ -90,7 +90,7 @@ Paper 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and    
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and     
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
