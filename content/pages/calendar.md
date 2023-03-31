@@ -95,7 +95,7 @@ Sound object proposal due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1e
 
 *Film in class*
 
-[*Scratch*](https://www.imdb.com/title/tt0143861/?ref_=nv_sr_srsg_7). Directed by Doug Pray. Color, 92 min. 2001.
+- [*Scratch*](https://www.imdb.com/title/tt0143861/?ref_=nv_sr_srsg_7). Directed by Doug Pray. Color, 92 min. 2001.
 
 {{< tdclose >}}{{< tdopen >}}
 Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
@@ -123,7 +123,7 @@ Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assig
 - “[Negativland - Still Haven't Found What I'm Looking For (Special Edit Radio Mix)](https://www.youtube.com/watch?v=AVroc7RvNeU).” 1991. YouTube.
 - “[Madonna - What the F\*ck Do You Think You're Doing?](https://www.youtube.com/watch?v=XU5xC00m-gA)” 2003. YouTube.
 - [*Xerophonics: Copying Machine Music*](https://open.spotify.com/album/5goxyvy7R96Pg0ibNiteGl). Stefan Helmreich. 2003. Spotify.
--  “[The Harley-Davidson Sound Trademark](https://www.svw.co.za/the-harley-davidson-sound-trademark/).” Smit & Van Wyk. 
+- “[The Harley-Davidson Sound Trademark](https://www.svw.co.za/the-harley-davidson-sound-trademark/).” Smit & Van Wyk. 
 - “[DJ /rupture - Gold Teeth Thief](https://www.youtube.com/watch?v=9y6IbLbypWo).” 2001. YouTube.
 - Boone, Christine. “[Gendered Power Relationships in Mashups](https://mtosmt.org/issues/mto.18.24.1/mto.18.24.1.boone.html).” *Music Theory Online* 24, no. 1 (2018).
 
@@ -132,7 +132,20 @@ Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assig
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
+
 \[C\] Mixing, EQ, Compression, Other Effects
+
+*Sound/video examples and excerpts in class*
+
+- “[Beats by Dre - Hear What You Want / Colin Kaepernick](https://www.youtube.com/watch?v=ZPllALdtgFI).” 2015. YouTube.
+- “[HELL YOU TALMBOUT - Janelle Monae f. Wondaland Records (video)](https://www.youtube.com/watch?v=fumaCsQ9wKw).” 2015. YouTube.
+- “[Janelle Monáe - Say Her Name (Hell You Talmbout) (feat. Various Artists) \[Official Lyric Video\]](https://www.youtube.com/watch?v=kQbeUN-IfyQ).” 2021. YouTube.
+- “[Nina Simone: Mississippi Goddam](https://www.youtube.com/watch?v=LJ25-U3jNWM).” 1965. YouTube.
+- Chen, Shawna.  “[Yellow Pearl: Soundtrack of the Asian American Movement](https://theyappie.com/asian-american-movement-yellow-pearl/).” May 19, 2021. The Yappie.
+-  “[Kpop Idols Who Were Supporting the BLM Movement, Part 1](https://www.tiktok.com/@jeongin_in_the_fridge/video/6959309955031633158?is_copy_url=1&is_from_webapp=v1&q=kpop%20idols%20supporting%20blm&t=1649950448111).” Tik Tok.
+
+*Film in class*
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
