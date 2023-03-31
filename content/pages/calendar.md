@@ -117,23 +117,15 @@ Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assig
 
 *Sound/video examples and excerpts in class*
 
-“[8 Led Zeppelin Songs That 'Rip Off' Other Songs](https://www.youtube.com/watch?v=efuOELImxAc).” 2021. YouTube.
-
-“[Copyright Criminals - Trailer](https://www.youtube.com/watch?v=frlKBi9wAyA).” 2010. YouTube.
-
-“[U2: How Negativland Exposed U2's Hypocrisy](https://www.youtube.com/watch?v=yy11T6Ri0hk).” 2020. YouTube.
-
-“[Negativland - Still Haven't Found What I'm Looking For (Special Edit Radio Mix)](https://www.youtube.com/watch?v=AVroc7RvNeU).” 1991. YouTube.
-
-“[Madonna - What the F\*ck Do You Think You're Doing?](https://www.youtube.com/watch?v=XU5xC00m-gA)” 2003. YouTube.
-
-[*Xerophonics: Copying Machine Music*](https://open.spotify.com/album/5goxyvy7R96Pg0ibNiteGl). Stefan Helmreich. 2003. Spotify.
-
- “[The Harley-Davidson Sound Trademark](https://www.svw.co.za/the-harley-davidson-sound-trademark/).” Smit & Van Wyk. 
-
-“[DJ /rupture - Gold Teeth Thief](https://www.youtube.com/watch?v=9y6IbLbypWo).” 2001. YouTube.
-
-Boone, Christine. “[Gendered Power Relationships in Mashups](https://mtosmt.org/issues/mto.18.24.1/mto.18.24.1.boone.html).” *Music Theory Online* 24, no. 1 (2018).
+- “[8 Led Zeppelin Songs That 'Rip Off' Other Songs](https://www.youtube.com/watch?v=efuOELImxAc).” 2021. YouTube.
+- “[Copyright Criminals - Trailer](https://www.youtube.com/watch?v=frlKBi9wAyA).” 2010. YouTube.
+- “[U2: How Negativland Exposed U2's Hypocrisy](https://www.youtube.com/watch?v=yy11T6Ri0hk).” 2020. YouTube.
+- “[Negativland - Still Haven't Found What I'm Looking For (Special Edit Radio Mix)](https://www.youtube.com/watch?v=AVroc7RvNeU).” 1991. YouTube.
+- “[Madonna - What the F\*ck Do You Think You're Doing?](https://www.youtube.com/watch?v=XU5xC00m-gA)” 2003. YouTube.
+- [*Xerophonics: Copying Machine Music*](https://open.spotify.com/album/5goxyvy7R96Pg0ibNiteGl). Stefan Helmreich. 2003. Spotify.
+-  “[The Harley-Davidson Sound Trademark](https://www.svw.co.za/the-harley-davidson-sound-trademark/).” Smit & Van Wyk. 
+- “[DJ /rupture - Gold Teeth Thief](https://www.youtube.com/watch?v=9y6IbLbypWo).” 2001. YouTube.
+- Boone, Christine. “[Gendered Power Relationships in Mashups](https://mtosmt.org/issues/mto.18.24.1/mto.18.24.1.boone.html).” *Music Theory Online* 24, no. 1 (2018).
 
 {{< tdclose >}}{{< tdopen >}}
  
