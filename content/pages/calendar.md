@@ -148,7 +148,9 @@ Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assig
 
 - [*Everybody In The Place: An Incomplete History of Britain, 1984–1992*](https://vimeo.com/394779397)*.* Directed by Jeremy Deller. Color, 60 min. 2019. Vimeo.
 
-ONLINE LECTURE TO BE EXCERPTED IN CLASS
+*Online lecture to be excerpted in class* 
+
+- “[Maria Sonevytsky, "Understanding the War on Ukraine through Its Musical Culture](https://www.youtube.com/watch?v=Ex6R1-XGg9s&t=1s).” (Online lecture at Bard College, February 2022.) YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
  
