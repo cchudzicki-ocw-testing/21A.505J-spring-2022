@@ -55,7 +55,9 @@ Sterne, Jonathan. “Machines to Hear for Them.” Chapter 1 in *The Audible Pas
 
 Behrendt, Frauke. “[Telephones, Music and History: From the Invention Era to the Early Smartphone Days](https://journals.sagepub.com/doi/full/10.1177/13548565211028810).” *Convergence: The International Journal of Research into New Media Technologies* 27, no. 6 (2021): 1678–95.
 
-Friedner, Michelle ,and Stefan Helmreich. “[Sound Studies Meets Deaf Studies](https://www.tandfonline.com/doi/abs/10.2752/174589312X13173255802120).” *Senses and Society*  7, no. 1 (2012): 72–86.
+Friedner, Michelle ,and Stefan Helmreich. “[Sound Studies Meets Deaf Studies](https://www.tandfonline.com/doi/abs/10.2752/174589312X13173255802120).” *Senses and Society* 7, no. 1 (2012): 72–86.
+
+Semel, Beth M. “[Listening Like a Computer: Attentional Tensions and Mechanized Care in Psychiatric Digital Phenotyping](https://journals.sagepub.com/doi/10.1177/01622439211026371).” *Science, Technology & Human Values* 47, no. 2 (2022): 266–90.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -108,7 +110,7 @@ Paper 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and              
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and               
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
