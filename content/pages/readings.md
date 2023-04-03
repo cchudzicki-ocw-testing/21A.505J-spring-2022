@@ -44,7 +44,7 @@ Scott, Sarah Mayberry. “[Sonic Lessons of the Covid-19 Soundscape](https://sou
 {{< tdclose >}}{{< tdopen >}}
 \[C\] Make a Beat to Share in Class
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
@@ -102,7 +102,7 @@ Paper 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and          
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and           
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
