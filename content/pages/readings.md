@@ -33,7 +33,9 @@ Feld, Steven. “A Rainforest Acoustemology.” Chapter 12 in *The Auditory Cult
 
 Thompson, Emily. “Introduction: Sound, Modernity and History.” Chapter 1 in [*The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900–1933*](https://mitpress.mit.edu/9780262701068/the-soundscape-of-modernity/). MIT Press, 2004. ISBN: ‎9780262701068. \[Preview with [Google Books](https://www.google.com/books/edition/The_Soundscape_of_Modernity/Gr9NEAAAQBAJ?hl=en&gbpv=1)\]
 
-———. “The Origins of Modern Acoustics.” Excerpts from Chapter 2 in [*The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900–1933*](https://mitpress.mit.edu/9780262701068/the-soundscape-of-modernity/). MIT Press, 2004. ISBN: ‎9780262701068. \[Preview with [Google Books](https://www.google.com/books/edition/The_Soundscape_of_Modernity/Gr9NEAAAQBAJ?hl=en&gbpv=1)\]
+———. “The Origins of Modern Acoustics.” Excerpts from Chapter 2 in [*The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900–1933*](https://mitpress.mit.edu/9780262701068/the-soundscape-of-modernity/). MIT Press, 2004. ISBN: ‎9780262701068. \[Preview with [Google Books](https://www.google.com/books/edition/The_Soundscape_of_Modernity/Gr9NEAAAQBAJ?hl=en&gbpv=1)\] *(If you’re interested, there is a lecture version of parts of Chapter 2* [*here*](http://videolectures.net/mitworld_thompson_sm/)*.)*
+
+Henriques, Julian. “[Sonic Diaspora, Vibrations, and Rhythm: Thinking through the Sounding of the Jamaican Dancehall Session](https://www.tandfonline.com/doi/abs/10.1080/17528630802224163).” *African and* *Black Diaspora: An International Journal* 1, no. 2 (2008): 215–36.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -98,7 +100,7 @@ Paper 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and        
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and         
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
