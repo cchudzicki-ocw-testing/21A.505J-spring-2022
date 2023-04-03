@@ -77,6 +77,8 @@ Bohlman, Andrea F., and Peter McMurray. “[Tape: Or, Rewinding the Phonographic
 
 Downes, Kieran. “['Perfect Sound Forever' - Innovation, Aesthetics, and the Remaking of Compact Disc Playback](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1630361).” *Technology and Culture* 15, no. 2 (2010): 305–31.
 
+Sterne, Jonathan. “[The MP3 as Cultural Artifact](https://journals.sagepub.com/doi/10.1177/1461444806067737).” *New Media and Society* 8, no. 5 (2006): 825–42.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -116,7 +118,7 @@ Downes, Kieran. “['Perfect Sound Forever' - Innovation, Aesthetics, and the Re
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                  
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                   
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
