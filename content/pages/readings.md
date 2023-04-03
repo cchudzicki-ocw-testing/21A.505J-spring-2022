@@ -79,6 +79,8 @@ Downes, Kieran. “['Perfect Sound Forever' - Innovation, Aesthetics, and the Re
 
 Sterne, Jonathan. “[The MP3 as Cultural Artifact](https://journals.sagepub.com/doi/10.1177/1461444806067737).” *New Media and Society* 8, no. 5 (2006): 825–42.
 
+Seaver, Nick. “[Captivating Algorithms: Recommender Systems as Traps](https://journals.sagepub.com/doi/abs/10.1177/1359183518820366).” *Journal of Material Culture* 24, no. 4 (2019): 421–36.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -118,7 +120,7 @@ Sterne, Jonathan. “[The MP3 as Cultural Artifact](https://journals.sagepub.com
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                   
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                    
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
