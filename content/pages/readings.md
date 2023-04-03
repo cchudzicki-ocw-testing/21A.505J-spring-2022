@@ -75,6 +75,8 @@ Davis, Erik. “Recording Angels: The Esoteric Origins of the Phonograph.” In 
 
 Bohlman, Andrea F., and Peter McMurray. “[Tape: Or, Rewinding the Phonographic Regime](https://www.cambridge.org/core/journals/twentieth-century-music/article/abs/tape-or-rewinding-the-phonographic-regime/47C704BF42C93706741F9F6BA7FA2E97).” *Twentieth-Century Music* 14, no. 1 (2017): 3–24.
 
+Downes, Kieran. “['Perfect Sound Forever' - Innovation, Aesthetics, and the Remaking of Compact Disc Playback](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1630361).” *Technology and Culture* 15, no. 2 (2010): 305–31.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -114,7 +116,7 @@ Bohlman, Andrea F., and Peter McMurray. “[Tape: Or, Rewinding the Phonographic
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                 
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                  
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
