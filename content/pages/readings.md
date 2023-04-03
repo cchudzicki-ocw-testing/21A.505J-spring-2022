@@ -64,13 +64,13 @@ Semel, Beth M. “[Listening Like a Computer: Attentional Tensions and Mechanize
 {{< tdclose >}}{{< tdopen >}}
 \[C\] Propose the Sound Object You Will Work on this Term; Bring a Clip to Demo Ideas
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
 \[H\] Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming
 {{< tdclose >}}{{< tdopen >}}
-Paper 1 due
+Davis, Erik. “Recording Angels: The Esoteric Origins of the Phonograph.” In *Undercurrents: The Hidden Wiring of Modern Music*. Edited by Rob Young. Continuum, 2002. ISBN: ‎9780826464507. \[Preview with [Google Books](https://www.google.com/books/edition/Undercurrents/ypu6BwAAQBAJ?hl=en&gbpv=1)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -110,7 +110,7 @@ Paper 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and               
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
