@@ -70,7 +70,11 @@ No readings assigned.
 {{< tdclose >}}{{< tdopen >}}
 \[H\] Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming
 {{< tdclose >}}{{< tdopen >}}
+
 Davis, Erik. “Recording Angels: The Esoteric Origins of the Phonograph.” In *Undercurrents: The Hidden Wiring of Modern Music*. Edited by Rob Young. Continuum, 2002. ISBN: ‎9780826464507. \[Preview with [Google Books](https://www.google.com/books/edition/Undercurrents/ypu6BwAAQBAJ?hl=en&gbpv=1)\]
+
+Bohlman, Andrea F., and Peter McMurray. “[Tape: Or, Rewinding the Phonographic Regime](https://www.cambridge.org/core/journals/twentieth-century-music/article/abs/tape-or-rewinding-the-phonographic-regime/47C704BF42C93706741F9F6BA7FA2E97).” *Twentieth-Century Music* 14, no. 1 (2017): 3–24.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -110,7 +114,7 @@ Davis, Erik. “Recording Angels: The Esoteric Origins of the Phonograph.” In 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                 
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
