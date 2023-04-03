@@ -97,6 +97,8 @@ No readings assigned.
 
 Clayton, Jace (aka DJ Rupture). “Confessions of a DJ.” Chapter 1 in *Uproot: Travels in 21st-Century Music and Digital Culture*. FSG Originals, 2016. ISBN: ‎9780374533427. \[Preview with [Google Books](https://www.google.com/books/edition/Uproot/4c2uDAAAQBAJ?hl=en&gbpv=1)\]
 
+Condry, Ian. “[Cultures of Music Piracy: An Ethnographic Comparison of the US and Japan](https://journals.sagepub.com/doi/10.1177/1367877904046412).” *International Journal of Cultural Studies* 7, no. 3 (2004): 343–63.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
@@ -124,7 +126,7 @@ Clayton, Jace (aka DJ Rupture). “Confessions of a DJ.” Chapter 1 in *Uproot:
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                     
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                      
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
