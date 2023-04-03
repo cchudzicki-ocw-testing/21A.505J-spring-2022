@@ -86,13 +86,17 @@ Seaver, Nick. “[Captivating Algorithms: Recommender Systems as Traps](https://
 {{< tdclose >}}{{< tdopen >}}
 \[C\] Mid-Term Sharing of Sound Object Project
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
 \[C & H\] Sound, Culture, Technology, Property
 {{< tdclose >}}{{< tdopen >}}
- 
+
+**Feld, Steven. “Pygmy POP: A Genealogy of Schizophonic Mimesis.”** ***Yearbook for Traditional Music*** **28 (1996): 1–35.**
+
+Clayton, Jace (aka DJ Rupture). “Confessions of a DJ.” Chapter 1 in *Uproot: Travels in 21st-Century Music and Digital Culture*. FSG Originals, 2016. ISBN: ‎9780374533427. \[Preview with [Google Books](https://www.google.com/books/edition/Uproot/4c2uDAAAQBAJ?hl=en&gbpv=1)\]
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
@@ -120,7 +124,7 @@ Seaver, Nick. “[Captivating Algorithms: Recommender Systems as Traps](https://
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                    
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                     
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
