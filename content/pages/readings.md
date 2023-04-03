@@ -31,6 +31,8 @@ Schafer, R. Murray. “Introduction.” In *The Soundscape: Our Sonic Environmen
 
 Feld, Steven. “A Rainforest Acoustemology.” Chapter 12 in *The Auditory Culture Reader*. 1<sup>st</sup> ed. Edited by Michael Bull and Les Back. Berg Publishers, 2004. ISBN: ‎9781859736180.
 
+Thompson, Emily. “Introduction: Sound, Modernity and History.” Chapter 1 in *The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900–1933*. MIT Press, 2004. ISBN: ‎9780262701068. \[Preview with [Google Books](https://www.google.com/books/edition/The_Soundscape_of_Modernity/Gr9NEAAAQBAJ?hl=en&gbpv=1)\]
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
@@ -94,7 +96,7 @@ Paper 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and      
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and       
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
