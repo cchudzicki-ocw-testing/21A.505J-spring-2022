@@ -50,7 +50,11 @@ No readings assigned.
 {{< tdclose >}}{{< tdopen >}}
 \[H\] Listening Machines
 {{< tdclose >}}{{< tdopen >}}
+
 Sterne, Jonathan. “Machines to Hear for Them.” Chapter 1 in *The Audible Past: Cultural Origins of Sound Reproduction*. Duke University Press, 2003. ISBN: 9780822330134. \[Preview with [Google Books](https://www.google.com/books/edition/The_Audible_Past/C87CDAAAQBAJ?hl=en&gbpv=1)\]
+
+Behrendt, Frauke. “[Telephones, Music and History: From the Invention Era to the Early Smartphone Days](https://journals.sagepub.com/doi/full/10.1177/13548565211028810).” *Convergence: The International Journal of Research into New Media Technologies* 27, no. 6 (2021): 1678–95.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -102,7 +106,7 @@ Paper 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and            
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and             
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
