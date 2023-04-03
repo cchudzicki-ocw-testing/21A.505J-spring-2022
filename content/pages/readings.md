@@ -37,6 +37,8 @@ Thompson, Emily. “Introduction: Sound, Modernity and History.” Chapter 1 in 
 
 Henriques, Julian. “[Sonic Diaspora, Vibrations, and Rhythm: Thinking through the Sounding of the Jamaican Dancehall Session](https://www.tandfonline.com/doi/abs/10.1080/17528630802224163).” *African and* *Black Diaspora: An International Journal* 1, no. 2 (2008): 215–36.
 
+Scott, Sarah Mayberry. “[Sonic Lessons of the Covid-19 Soundscape](https://soundstudiesblog.com/2021/08/02/sonic-lessons-of-the-covid-19-soundscape/).” August 2, 2021. Sounding Out!
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
@@ -100,7 +102,7 @@ Paper 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and         
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and          
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
