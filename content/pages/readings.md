@@ -145,10 +145,14 @@ Supper, Alexandra. “[Lobbying for the Ear, Listening with the Whole Body: The 
 
 [*Heard Laboratories*](https://and-oar.bandcamp.com/album/heard-laboratories). Ernst Karel. and/OAR, 2010. bandcamp.
 
+[***Sonic Antarctica***](https://www.gruenrekorder.de/?page_id=342)**. Andrea Polly. Gruenrekorder, 2009.**  
+
+[*Spring Bloom in the Marginal Ice Zone*](https://janawinderen.bandcamp.com/album/spring-bloom-in-the-marginal-ice-zone). Jana Winderen. 2018. bandcamp.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                    
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                     
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
