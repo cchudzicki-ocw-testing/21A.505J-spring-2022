@@ -93,7 +93,7 @@ No readings assigned.
 \[C & H\] Sound, Culture, Technology, Property
 {{< tdclose >}}{{< tdopen >}}
 
-**Feld, Steven. “Pygmy POP: A Genealogy of Schizophonic Mimesis.”** ***Yearbook for Traditional Music*** **28 (1996): 1–35.**
+**Feld, Steven. “**[**Pygmy POP: A Genealogy of Schizophonic Mimesis**](https://www.cambridge.org/core/journals/yearbook-for-traditional-music/article/abs/pygmy-pop-a-genealogy-of-schizophonic-mimesis/734F752B28775C4DEE2073F7FA97B7DB)**.”** ***Yearbook for Traditional Music*** **28 (1996): 1–35.**
 
 Clayton, Jace (aka DJ Rupture). “Confessions of a DJ.” Chapter 1 in *Uproot: Travels in 21st-Century Music and Digital Culture*. FSG Originals, 2016. ISBN: ‎9780374533427. \[Preview with [Google Books](https://www.google.com/books/edition/Uproot/4c2uDAAAQBAJ?hl=en&gbpv=1)\]
 
@@ -128,7 +128,7 @@ Marshall, Wayne. “Mashup Poetics as Pedagogical Practice.” Chapter 16 in *Po
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                       
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                        
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
