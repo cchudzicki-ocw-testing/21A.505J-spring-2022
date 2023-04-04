@@ -151,10 +151,12 @@ Supper, Alexandra. “[Lobbying for the Ear, Listening with the Whole Body: The 
 
 [Sound Samples, SoSH Project: Sonification of Solar Harmonics](http://solar-center.stanford.edu/sosh/#sounds). Stanford Solar Center.
 
+[Voyager: The Golden Record](https://voyager.jpl.nasa.gov/golden-record/). Jet Propulson Library, California Institue of Technology.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                       
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                        
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
