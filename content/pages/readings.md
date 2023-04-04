@@ -99,7 +99,9 @@ Clayton, Jace (aka DJ Rupture). “Confessions of a DJ.” Chapter 1 in *Uproot:
 
 Condry, Ian. “[Cultures of Music Piracy: An Ethnographic Comparison of the US and Japan](https://journals.sagepub.com/doi/10.1177/1367877904046412).” *International Journal of Cultural Studies* 7, no. 3 (2004): 343–63.
 
-Marshall, Wayne. “Mashup Poetics as Pedagogical Practice.” Chapter 16 in *Pop-Culture Pedagogy in the Music Classroom Teaching Tools from American Idol to YouTube*. Edited by Nicole Biamonte. Scarecrow Press, 2010. ISBN: ‎9780810876637. \[Preview with [Google  Books](https://www.google.com/books/edition/Pop_Culture_Pedagogy_in_the_Music_Classr/cdF5Ud9H9IgC?hl=en&gbpv=1)\]
+Marshall, Wayne. “Mashup Poetics as Pedagogical Practice.” Chapter 16 in *Pop-Culture Pedagogy in the Music Classroom Teaching Tools from American Idol to YouTube*. Edited by Nicole Biamonte. Scarecrow Press, 2010. ISBN: ‎9780810876637. \[Preview with [Google Books](https://www.google.com/books/edition/Pop_Culture_Pedagogy_in_the_Music_Classr/cdF5Ud9H9IgC?hl=en&gbpv=1)\]
+
+Thaemlitz, Terre. “[Social Media Content Removal Fail](http://www.comatonse.com/writings/2013_social_media_content_removal_fail.html).” September 24, 2013. Comatonse Recordings.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -128,7 +130,7 @@ Marshall, Wayne. “Mashup Poetics as Pedagogical Practice.” Chapter 16 in *Po
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                        
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                         
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
