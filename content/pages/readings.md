@@ -148,7 +148,7 @@ Supper, Alexandra. “[Lobbying for the Ear, Listening with the Whole Body: The 
 - [*Spring Bloom in the Marginal Ice Zone*](https://janawinderen.bandcamp.com/album/spring-bloom-in-the-marginal-ice-zone). Jana Winderen. 2018. bandcamp.
 - [Sound Samples, SoSH Project: Sonification of Solar Harmonics](http://solar-center.stanford.edu/sosh/#sounds). Stanford Solar Center.
 - [Voyager: The Golden Record](https://voyager.jpl.nasa.gov/golden-record/). Jet Propulsion Library, California Institue of Technology.
-- [*Scrambles of Earth: The Voyager Golden Record, Remixed by Extraterrestrials*](https://open.spotify.com/album/3bsJRQ4tQVaDPpVDfItftZ). SETI-X. Seeland, 2010. Spotify.
+- [*Scrambles of Earth: The Voyager Interstellar Record, Remixed by Extraterrestrials*](https://open.spotify.com/album/3bsJRQ4tQVaDPpVDfItftZ). SETI-X. Seeland, 2010. Spotify.
 - *Various music made with Artificial Intelligence:*
     - [*AAI*](https://mouseonmars.bandcamp.com/album/aai). Mouse on Mars. 2021. bandcamp.
     - “[Deep Time and Intelligence panel presentation at MIT: 2021 'Unfolding Intelligence' Symposium](https://www.youtube.com/watch?v=LKQxuI5udWE).” (Holly Hernon presentation.) YouTube.
@@ -157,7 +157,7 @@ Supper, Alexandra. “[Lobbying for the Ear, Listening with the Whole Body: The 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                           
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                            
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
