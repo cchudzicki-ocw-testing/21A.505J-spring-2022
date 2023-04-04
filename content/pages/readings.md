@@ -134,11 +134,16 @@ No readings assigned.
 {{< tdclose >}}{{< tdopen >}}
 \[H\] The Sounds of Science
 {{< tdclose >}}{{< tdopen >}}
+
 Helmreich, Stefan. “[An Anthropologist Underwater: Immersive Soundscapes, Submarine Cyborgs, and Transductive Ethnography](https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/ae.2007.34.4.621).” *American Ethnologist* 34, no. 4 (2007): 621–41.
+
+———. “[Gravity’s Reverb: Listening to Space-Time, or Articulating the](https://journal.culanth.org/index.php/ca/article/view/ca31.4.02)  
+[Sounds of Gravitational Wave Detection](https://journal.culanth.org/index.php/ca/article/view/ca31.4.02).” *Cultural Anthropology* 31, no. 4 (2016): 464–92.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                              
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                               
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
