@@ -141,10 +141,14 @@ Helmreich, Stefan. “[An Anthropologist Underwater: Immersive Soundscapes, Subm
 
 Supper, Alexandra. “[Lobbying for the Ear, Listening with the Whole Body: The (Anti-) Visual Culture of Sonification](https://www.tandfonline.com/doi/full/10.1080/20551940.2016.1214446).” *Sound Studies: An Interdisciplinary Journal* 2, no. 1 (2016): 69–80.
 
+*Listening*
+
+Ernst Karel. 2010. Heard Laboratories. and/OAR Historic Naval Sound and Video:
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                 
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                  
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
