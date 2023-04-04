@@ -157,7 +157,7 @@ Supper, Alexandra. “[Lobbying for the Ear, Listening with the Whole Body: The 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                          
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                           
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
