@@ -103,6 +103,8 @@ Marshall, Wayne. “Mashup Poetics as Pedagogical Practice.” Chapter 16 in *Po
 
 Thaemlitz, Terre. “[Social Media Content Removal Fail](http://www.comatonse.com/writings/2013_social_media_content_removal_fail.html).” September 24, 2013. Comatonse Recordings.
 
+“[What the Hell is Terre’s Problem?!!](http://comatonse.com/minor/)” Comatonse Recordings.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
@@ -130,7 +132,7 @@ Thaemlitz, Terre. “[Social Media Content Removal Fail](http://www.comatonse.co
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                         
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                          
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
