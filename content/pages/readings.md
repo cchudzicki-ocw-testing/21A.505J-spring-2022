@@ -110,13 +110,13 @@ Thaemlitz, Terre. “[Social Media Content Removal Fail](http://www.comatonse.co
 {{< tdclose >}}{{< tdopen >}}
 \[C\] Mixing, EQ, Compression, Other Effects
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
 \[H\] Sonic Privacy, Sonic Publics
 {{< tdclose >}}{{< tdopen >}}
- 
+Hsieh, Jennifer C. “[Piano Transductions: Music, Sound and Noise in Urban Taiwan](https://www.tandfonline.com/doi/full/10.1080/20551940.2018.1564459).” *Sound Studies: An Interdisciplinary Journal* 5, no. 1 (2019): 4–21.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
@@ -132,7 +132,7 @@ Thaemlitz, Terre. “[Social Media Content Removal Fail](http://www.comatonse.co
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                          
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                           
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
