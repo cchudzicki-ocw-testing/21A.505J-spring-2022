@@ -152,12 +152,12 @@ Supper, Alexandra. “[Lobbying for the Ear, Listening with the Whole Body: The 
 - *Various music made with Artificial Intelligence:*
     - [*AAI*](https://mouseonmars.bandcamp.com/album/aai). Mouse on Mars. 2021. bandcamp.
     - “[Deep Time and Intelligence panel presentation at MIT: 2021 'Unfolding Intelligence' Symposium](https://www.youtube.com/watch?v=LKQxuI5udWE).” (Holly Hernon presentation.) YouTube.
-    - Murray, Eoin. “[Recognize: Debit](https://djmag.com/features/recognise-debit).” DJ Mag, February 2, 2022. 
+    - Murray, Eoin. “[Recognise: Debit](https://djmag.com/features/recognise-debit).” DJ Mag, February 2, 2022. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                            
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                             
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
