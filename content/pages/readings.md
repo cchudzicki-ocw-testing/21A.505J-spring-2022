@@ -149,10 +149,12 @@ Supper, Alexandra. “[Lobbying for the Ear, Listening with the Whole Body: The 
 
 [*Spring Bloom in the Marginal Ice Zone*](https://janawinderen.bandcamp.com/album/spring-bloom-in-the-marginal-ice-zone). Jana Winderen. 2018. bandcamp.
 
+[SoSH Project: Sonification of Solar Harmonics](http://solar-center.stanford.edu/sosh/#sounds). Stanford Solar Center.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                     
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                      
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
