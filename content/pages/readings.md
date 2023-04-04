@@ -121,6 +121,8 @@ Hsieh, Jennifer C. “[Piano Transductions: Music, Sound and Noise in Urban Taiw
 
 Hagood, Mack. “Beats by Dre: Race and the Sonic Interface.” Chapter 6 in *Hush: Media and Self Control*. Duke University Press Books, 2019. ISBN: ‎ 9781478003809. \[Preview with [Google Books](https://www.google.com/books/edition/Hush/6NKGDwAAQBAJ?hl=en&gbpv=1)\]
 
+McDaniel, Byrd.  “[A New Age of Protest Music](https://www.bostonreview.net/articles/byrd-mcdaniel-where-has-all-protest-music-gone/).” *Boston Review*, June 22, 2020. 
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
@@ -136,7 +138,7 @@ Hagood, Mack. “Beats by Dre: Race and the Sonic Interface.” Chapter 6 in *Hu
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                            
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                             
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 Sound object and paper 2 due
