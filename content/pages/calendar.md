@@ -148,7 +148,6 @@ Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assig
 - “[Janelle Monáe - Say Her Name (Hell You Talmbout) (feat. Various Artists) \[Official Lyric Video\]](https://www.youtube.com/watch?v=kQbeUN-IfyQ).” 2021. YouTube.
 - “[Nina Simone: Mississippi Goddam](https://www.youtube.com/watch?v=LJ25-U3jNWM).” 1965. YouTube.
 - Chen, Shawna.  “[Yellow Pearl: Soundtrack of the Asian American Movement](https://theyappie.com/asian-american-movement-yellow-pearl/).” May 19, 2021. The Yappie.
--  “[Kpop Idols Who Were Supporting the BLM Movement, Part 1](https://www.tiktok.com/@jeongin_in_the_fridge/video/6959309955031633158?is_copy_url=1&is_from_webapp=v1&q=kpop%20idols%20supporting%20blm&t=1649950448111).” Tik Tok.
 
 *Film in class*
 
