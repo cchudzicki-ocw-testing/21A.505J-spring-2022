@@ -32,8 +32,8 @@ DUE DATES
 - [*Voices Of The Rainforest: A Day In The Life Of The Kaluli People*](https://folkways.si.edu/voices-of-the-rainforest/world/music/album/smithsonian)*.* Steven Feld. Rykodisc, 1991. 
 - “[The Roaring Twenties: An Interactive Exploration of the Historical Soundscape of New York City](http://nycitynoise.com/).” Emily Thompson, Scott Mahoy, and Ben Johnston. 2019. 
 - “[Alvin Lucier - I Am Sitting In A Room](https://www.youtube.com/watch?v=fAxHlLK3Oyk).” 1969. YouTube.
-- “[I Am Sitting in a Zoom](https://timshaw.bandcamp.com/album/i-am-sitting-in-a-zoom).” Tim Shaw and John Bowers. 2020. bandcamp.
-- “[Here We All Are (Lucier Mix)](https://amplify2020.bandcamp.com/album/here-we-all-are-lucier-mix).” Cathy Lane. 2020. bandcamp.
+- “[I Am Sitting in a Zoom](https://timshaw.bandcamp.com/album/i-am-sitting-in-a-zoom).” Tim Shaw and John Bowers. 2020. Bandcamp.
+- “[Here We All Are (Lucier Mix)](https://amplify2020.bandcamp.com/album/here-we-all-are-lucier-mix).” Cathy Lane. 2020. Bandcamp.
 - “[Convolution Reverb](https://www.ableton.com/en/packs/convolution-reverb/).” Advertised and explained by Ableton.
 - “[Sound System Outernational 2, 2nd July 2016](https://vimeo.com/184107481).” Vimeo.
 - [*Lovers Rock*](https://www.imdb.com/title/tt10551102/?ref_=fn_al_tt_5). Directed by Steve McQueen. Color, 70 min. 2020.  
@@ -59,7 +59,7 @@ Beat sharing due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "
 
 *Sound/video examples and excerpts in class*
 
-- “[Au Clair de la Lune](https://dusttodigital.bandcamp.com/album/au-clair-de-la-lune)” phonautogram. Éduoard-Léon Scott de Martinville. 1860, audified in 2008. bandcamp.
+- “[Au Clair de la Lune](https://dusttodigital.bandcamp.com/album/au-clair-de-la-lune)” phonautogram. Éduoard-Léon Scott de Martinville. 1860, audified in 2008. Bandcamp.
 - “[Human Speech From a Piano…](https://ledgernote.com/blog/interesting/human-speech-piano/)” (Speech spectrogram transformed to MIDI to activate “speaking” player piano.) Ledgernote. 
 - “[Pianos Can Emulate Human Voices, Apparently](https://killscreen.com/previously/articles/pianos-can-emulate-human-voices-apparently/).”  (Spectrogram of Bee Gees’ “Stayin’ Alive” transformed to MIDI to activate player piano.) Kill Screen.
 - “[telharmonium documental 1.mp4](https://www.youtube.com/watch?v=TunkjJvbrHs).” (*Magic Music from the Telharmonium*. Reynold Weidenaar. Magnetic Music, 2006.) YouTube.
