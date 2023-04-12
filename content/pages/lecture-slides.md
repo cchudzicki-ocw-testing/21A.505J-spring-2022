@@ -12,7 +12,7 @@ TOPICS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
-Soundscapes, Acoustemologies, Space, Culture (PDF)
+Soundscapes, Acoustemologies, Space, Culture (PDF - 7.1MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
