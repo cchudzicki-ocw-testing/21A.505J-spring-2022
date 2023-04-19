@@ -16,7 +16,7 @@ Soundscapes, Acoustemologies, Space, Culture (PDF - 7.1MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-Listening Machines (PDF)
+Listening Machines (PDF - 2.4MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
