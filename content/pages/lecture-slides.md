@@ -20,7 +20,7 @@ Listening Machines (PDF - 2.4MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
-Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming (PDF)
+Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming (PDF - 3.8MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
