@@ -93,7 +93,7 @@ No readings assigned.
 \[C & H\] Sound, Culture, Technology, Property
 {{< tdclose >}}{{< tdopen >}}
 
-**Feld, Steven. “**[**Pygmy POP: A Genealogy of Schizophonic Mimesis**](https://www.cambridge.org/core/journals/yearbook-for-traditional-music/article/abs/pygmy-pop-a-genealogy-of-schizophonic-mimesis/734F752B28775C4DEE2073F7FA97B7DB)**.”** ***Yearbook for Traditional Music*** **28 (1996): 1–35.**
+Feld, Steven. “[Pygmy POP: A Genealogy of Schizophonic Mimesis](https://www.jstor.org/stable/767805).” *Yearbook for Traditional Music* 28 (1996): 1–35.
 
 Clayton, Jace (aka DJ Rupture). “Confessions of a DJ.” Chapter 1 in *Uproot: Travels in 21st-Century Music and Digital Culture*. FSG Originals, 2016. ISBN: ‎9780374533427. \[Preview with [Google Books](https://www.google.com/books/edition/Uproot/4c2uDAAAQBAJ?hl=en&gbpv=1)\]
 
@@ -144,7 +144,7 @@ Supper, Alexandra. “[Lobbying for the Ear, Listening with the Whole Body: The 
 *Listening*
 
 - [*Heard Laboratories*](https://and-oar.bandcamp.com/album/heard-laboratories). Ernst Karel. and/OAR, 2010. Bandcamp.
-- [***Sonic Antarctica***](https://www.gruenrekorder.de/?page_id=342)**. Andrea Polly. Gruenrekorder, 2009.**  
+- [*Sonic Antarctica*](https://www.gruenrekorder.de/?page_id=342). Andrea Polli. Gruenrekorder, 2009.  
 - [*Spring Bloom in the Marginal Ice Zone*](https://janawinderen.bandcamp.com/album/spring-bloom-in-the-marginal-ice-zone). Jana Winderen. 2018. Bandcamp.
 - [Sound Samples, SoSH Project: Sonification of Solar Harmonics](http://solar-center.stanford.edu/sosh/#sounds). Stanford Solar Center.
 - [Voyager: The Golden Record](https://voyager.jpl.nasa.gov/golden-record/). Jet Propulsion Library, California Institue of Technology.
@@ -157,7 +157,7 @@ Supper, Alexandra. “[Lobbying for the Ear, Listening with the Whole Body: The 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                               
+\[C & H\] Discussion and reflection on final recording projects, processes of learning, and                                                
 participant-observation in music and technology
 {{< tdclose >}}{{< tdopen >}}
 No readings assigned.
