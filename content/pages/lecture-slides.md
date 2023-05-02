@@ -24,7 +24,7 @@ Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming (PDF - 3.8M
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-Sound, Culture, Technology, Property (PDF)
+Sound, Culture, Technology, Property (PDF - 3MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
