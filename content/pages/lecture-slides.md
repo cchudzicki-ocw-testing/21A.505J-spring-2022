@@ -12,15 +12,15 @@ TOPICS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
-Soundscapes, Acoustemologies, Space, Culture (PDF - 7.1MB)
+Soundscapes, Acoustemologies, Space, Culture (PDF - 7MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-Listening Machines (PDF - 2.4MB)
+Listening Machines (PDF - 2MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
-Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming (PDF - 3.8MB)
+Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming (PDF - 4MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
