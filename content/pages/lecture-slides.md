@@ -28,7 +28,7 @@ Sound, Culture, Technology, Property (PDF - 3MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
-Sonic Privacy, Sonic Publics (PDF)
+Sonic Privacy, Sonic Publics (PDF - 3MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
