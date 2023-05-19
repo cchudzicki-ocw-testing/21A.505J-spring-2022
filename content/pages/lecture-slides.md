@@ -9,24 +9,24 @@ The following lecture slides were utilized during this course. 
 
 ### Session 2
 
-Soundscapes, Acoustemologies, Space, Culture (PDF - 7.1MB)
+{{% resource_link "de312e2c-bdd8-45a1-ac09-142661b502e8" "Soundscapes, Acoustemologies, Space, Culture (PDF - 7.1MB)" %}}
 
 ### Session 4
 
-Listening Machines (PDF - 2.4MB)
+{{% resource_link "2bb30bfd-0830-41f7-af84-fd9c089cf3c2" "Listening Machines (PDF - 2.4MB)" %}}
 
 ### Session 6
 
-Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming (PDF - 3.8MB)
+{{% resource_link "8c5e6b39-5542-44f1-9310-1505c90a36a1" "Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming (PDF - 3.8MB)" %}}
 
 ### Session 8
 
-Sound, Culture, Technology, Property (PDF - 3MB)
+{{% resource_link "3cb1d52a-6ca5-45a4-a833-2195b735ceaa" "Sound, Culture, Technology, Property (PDF - 3MB)" %}}
 
 ### Session 10
 
-Sonic Privacy, Sonic Publics (PDF - 3.3MB)
+{{% resource_link "9539cb05-b249-4176-a217-2dc9b61875be" "Sonic Privacy, Sonic Publics (PDF - 3.3MB)" %}}
 
 ### Session 12
 
-The Sounds of Science (PDF - 6.5MB)
+{{% resource_link "dbf39780-3b87-49bf-8819-de57ac456b3b" "The Sounds of Science (PDF - 6.5MB)" %}}
