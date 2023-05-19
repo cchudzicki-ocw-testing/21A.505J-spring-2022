@@ -5,6 +5,8 @@ draft: false
 title: Lecture Slides
 uid: 8461c4b6-eeb2-4f9d-bf99-66d11b37571f
 ---
+The following lecture slides were utilized during this course. 
+
 ### Session 2
 
 Soundscapes, Acoustemologies, Space, Culture (PDF - 7.1MB)
