@@ -9,6 +9,16 @@ uid: 4b15eebb-b71a-407b-805f-b455ed1dc730
 
 \[H\] Session taught by Prof. Stefan Helmreich
 
+### Session 1
+
+\[C & H\] Introduction to the Course
+
+### Session 2
+
+\[H\] Soundscapes, Acoustemologies, Space, Culture 
+
+ 
+
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SESS #
 {{< thclose >}}{{< thopen >}}
