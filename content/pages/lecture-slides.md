@@ -32,5 +32,5 @@ Sonic Privacy, Sonic Publics (PDF - 3MB)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
-The Sounds of Science (PDF)
+The Sounds of Science (PDF - 6.5MB)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
