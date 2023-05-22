@@ -11,6 +11,12 @@ Students will create a sound object — a musical or sound art composition, a so
 
 ### Session 3 due
 
+Please take a look at this article by Prof. Toshiya Ueno, who will be speaking with me (and us) during the first hour of class.
+
+Ueno, Toshiya. "[Resilience through Rituals](https://cir.nii.ac.jp/crid/1050282677922527872)." *The Bulletin of the Faculty of Representational Studies* 14 (2014): 41–51.
+
+ 
+
 Using [Ableton](https://www.ableton.com/en/), a Digital Audio Workstation, create a rhythmic segment between two and 16 measures long. Be prepared to share about 30 seconds of your audio in class. We’ll be curious to hear about your process, and about your observations around learning, improvising, and evaluating your different attempts.
 
 ### Session 5 due
@@ -43,11 +49,11 @@ or something you propose
 
 *Some goals*
 
-Practice audio composition in a DAW (digital audio workstation, such as Ableton Live, Reaper, or other); make rhythms and add melody; practice mixing and arranging; extend our use of audio effects (e.g., reverb, compression, warping, etc.); and prepare your audio for distribution (mastering, audio formats).  If time, we will also try some mixing for spatial audio.  
+Practice audio composition in a DAW (digital audio workstation, such as [Ableton Live](https://www.ableton.com/en/live/?mtm_campaign=15981844757&mtm_kwd=ableton%20live&mtm_source=google&mtm_medium=cpc&mtm_cid=15981844757&mtm_group={AdGroupName}&gclid=EAIaIQobChMIiruboJ6J_wIVUsfjBx00ZgWNEAAYASAAEgJuPPD_BwE), [Reaper](https://www.reaper.fm/), or other); make rhythms and add melody; practice mixing and arranging; extend our use of audio effects (e.g., reverb, compression, warping, etc.); and prepare your audio for distribution (mastering, audio formats).  If time, we will also try some mixing for spatial audio.  
 
-We will keep developing our sound objects during the entire class, and then share with everyone at the end of the term.  Our goal is to prepare the sound objects so that they can be uploaded as an album on Bandcamp (and possibly the streaming services), but this is optional, and you can decide whether or not to share your work.
+We will keep developing our sound objects during the entire class, and then share with everyone at the end of the term.  Our goal is to prepare the sound objects so that they can be uploaded as an album on [Bandcamp](https://bandcamp.com/) (and possibly the streaming services), but this is optional, and you can decide whether or not to share your work.
 
-The goal is to practice and to experiment with recording, mixing, adding effects, editing, and transforming sounds.  Ideally, we will get to the point where we can experiment with using surround sound mixing in the Spatial Sound Lab as well.  
+The goal is to practice and to experiment with recording, mixing, adding effects, editing, and transforming sounds. Ideally, we will get to the point where we can experiment with using surround sound mixing in the Spatial Sound Lab as well.  
 
  
 
