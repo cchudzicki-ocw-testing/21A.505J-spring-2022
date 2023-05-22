@@ -27,7 +27,7 @@ Scott, Sarah Mayberry. “[Sonic Lessons of the Covid-19 Soundscape](https://sou
 
 ### Session 3: Make a Beat to Share in Class \[C\]
 
-No readings assigned.
+Ueno, Toshiya. "[Resilience through Rituals](https://cir.nii.ac.jp/crid/1050282677922527872)." *The Bulletin of the Faculty of Representational Studies* 14 (2014): 41–51.
 
 ### Session 4: Listening Machines \[H\] 
 
