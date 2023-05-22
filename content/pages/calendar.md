@@ -9,13 +9,9 @@ uid: 4b15eebb-b71a-407b-805f-b455ed1dc730
 
 \[H\] Session taught by Prof. Stefan Helmreich
 
-### Session 1
+### Session 1: Introduction to the Course \[C & H\]
 
-\[C & H\] Introduction to the Course
-
-### Session 2
-
-\[H\] Soundscapes, Acoustemologies, Space, Culture 
+### Session 2: Soundscapes, Acoustemologies, Space, Culture \[H\] 
 
 *Sound/video examples and excerpts in class*
 
@@ -29,17 +25,13 @@ uid: 4b15eebb-b71a-407b-805f-b455ed1dc730
 - [*Lovers Rock*](https://www.imdb.com/title/tt10551102/?ref_=fn_al_tt_5). Directed by Steve McQueen. Color, 70 min. 2020.  
 - “[TCI IRL: Quarantine Supercut: The Creative Independent](https://soundcloud.com/user-597121341/tci-irl-the-sound-of-quarantine?ref=section-tci-irl-promo-open-call-quarantine-supercut-with-drew-daniel)." Assembled and produced by Drew Daniel. 2020. Soundcloud.
 
-### Session 3
-
-\[C\] Make a Beat to Share in Class
+### Session 3: Make a Beat to Share in Class \[C\]
 
 Guest: Toshiya Ueno, author, DJ, professor from Japan.
 
 Assignment due: Beat sharing due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
 
-### Session 4
-
-\[H\] Listening Machines
+### Session 4: Listening Machines \[H\] 
 
 Guest: Dr. Beth Semel, MIT Department of Anthropology.
 
@@ -54,15 +46,11 @@ Guest: Dr. Beth Semel, MIT Department of Anthropology.
 - “[Synapse: Robin Fox and the Bionic Ear](https://www.youtube.com/watch?v=HLX-rPsphV8).” YouTube.
 - “[D-PAN Interview: Christine Sun Kim - Sound Artist](https://www.youtube.com/watch?v=cW3ZeoM5PsE).” YouTube.
 
-### Session 5
-
-\[C\] Propose the Sound Object You Will Work on this Term; Bring a Clip to Demo Ideas
+### Session 5: Propose the Sound Object You Will Work on this Term; Bring a Clip to Demo Ideas \[C\] 
 
 Assignment due: Sound object proposal due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
 
-### Session 6
-
-\[H\] Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming
+### Session 6: Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming \[H\] 
 
 *Sound/video examples and excerpts in class*
 
@@ -79,15 +67,11 @@ Assignment due: Sound object proposal due (See {{% resource_link "3adf174e-7941-
 
 Assignment due: Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
 
-### Session 7
-
-\[C\] Mid-Term Sharing of Sound Object Project
+### Session 7: Mid-Term Sharing of Sound Object Project \[C\] 
 
 *Please come to class prepared to share a sample of your work so far on your sound object, duration of roughly 1 1/2 to 4 minutes long. Length is flexible. Consider the goals of the sound object production too, and try to incorporate various combinations of sampling, recording, MIDI, mixing, adding effects, spatializing, etc. Please also come ready to discuss your process, the skills you've learned or worked on, some of your discoveries, and some of your outstanding questions and concerns. This is about making a sound object, but it's also about reflecting on the learning process, how we adapt to uncertainty, and the complex experience of "making something for ourselves" alongside "sharing with others."*
 
-### Session 8
-
-\[C & H\] Sound, Culture, Technology, Property
+### Session 8: Sound, Culture, Technology, Property \[C & H\] 
 
 *Sound/video examples and excerpts in class*
 
@@ -101,13 +85,9 @@ Assignment due: Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b
 - “[DJ /rupture - Gold Teeth Thief](https://www.youtube.com/watch?v=9y6IbLbypWo).” 2001. YouTube.
 - Boone, Christine. “[Gendered Power Relationships in Mashups](https://mtosmt.org/issues/mto.18.24.1/mto.18.24.1.boone.html).” *Music Theory Online* 24, no. 1 (2018).
 
-### Session 9
+### Session 9: Mixing, EQ, Compression, Other Effects \[C\] 
 
-\[C\] Mixing, EQ, Compression, Other Effects
-
-### Session 10
-
-\[H\] Sonic Privacy, Sonic Publics
+### Session 10: Sonic Privacy, Sonic Publics \[H\] 
 
 *Sound/video examples and excerpts in class*
 
@@ -125,16 +105,10 @@ Assignment due: Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b
 
 - “[Maria Sonevytsky, "Understanding the War on Ukraine through Its Musical Culture](https://www.youtube.com/watch?v=Ex6R1-XGg9s&t=1s).” (Online lecture at Bard College, February 2022.) YouTube.
 
-### Session 11
+### Session 11: Mastering vs. Spatializing for Final Mixes \[C\] 
 
-\[C\] Mastering vs. Spatializing for Final Mixes
+### Session 12: The Sounds of Science \[H\] 
 
-### Session 12
-
-\[H\] The Sounds of Science
-
-### Session 13
-
-\[C & H\] Discussion and reflection on final recording projects, processes of learning, and participant-observation in music and technology
+### Session 13: Discussion and reflection on final recording projects, processes of learning, and participant-observation in music and technology \[C & H\] 
 
 Assignment due: Sound object and Paper 2 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
