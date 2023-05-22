@@ -5,9 +5,9 @@ draft: false
 title: Calendar
 uid: 4b15eebb-b71a-407b-805f-b455ed1dc730
 ---
-\[C\] Session taught by Prof. Ian Condry
+### \[C\] Session taught by Prof. Ian Condry
 
-\[H\] Session taught by Prof. Stefan Helmreich
+### \[H\] Session taught by Prof. Stefan Helmreich
 
 ### Session 1: Introduction to the Course \[C & H\]
 
