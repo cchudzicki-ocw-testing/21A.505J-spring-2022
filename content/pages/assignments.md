@@ -15,15 +15,41 @@ Using [Ableton](https://www.ableton.com/en/), a Digital Audio Workstation, creat
 
 ### Session 5 due
 
-Write a 1-page, double-spaced description of the sound object you intend to make. We will share drafts halfway through the term, and Ian will give feedback. The goal is to prepare the sound objects so that by the end of the semester they can be uploaded as an album on [Bandcamp](https://bandcamp.com/), though this is optional.
+1)  Please bring a short sample of music you made to share in class:  rhythm + melody, or chords, or bass, or some other sounds
 
-Requirements: The goal is to experiment with recording, mixing, adding effects, editing, transforming sounds. Ideally, we will get to the point where we can use surround sound mixing in the Spatial Sound Lab. Some possible sound objects:
+For a nice overview of concepts, music knowledge, approaches, and examples, please visit [Get Started Making Music](https://learningmusic.ableton.com/) at Ableton.
 
-- a musical composition of any kind
-- a soundscape that evokes a social setting or particular place
-- a podcast composed of multiple voices and perspectives
-- a dramatic narrative of some sort (audio play?) of your own making
-- a supercut, mashup or other sample-based composition
+If you're already familiar with the music theory, you can skip to the "Bass lines" section.  
+
+If you'd like to experiment with different genres of rhythms, this tutorial is useful: ["How to make drum patterns - rhythms every producer SHOULD know (FREE MIDI)| Splice."](https://www.youtube.com/watch?v=zOVSOvsTXto) YouTube.
+
+2) Proposal for your final project. 
+
+Please write one paragraph (less than a page, double spaced.)  Your project can be vague and aspirational.  Please choose a direction that helps you explore some skills you might be interested in learning.  
+
+Some possible sound objects:
+
+a musical composition of any kind
+
+a soundscape that evokes a social setting or particular place
+
+a podcast composed of multiple voices and perspectives
+
+a dramatic narrative of some sort (audio play?) of your own making
+
+a supercut, mashup or other sample-based composition
+
+or something you propose
+
+*Some goals*
+
+Practice audio composition in a DAW (digital audio workstation, such as Ableton Live, Reaper, or other); make rhythms and add melody; practice mixing and arranging; extend our use of audio effects (e.g., reverb, compression, warping, etc.); and prepare your audio for distribution (mastering, audio formats).  If time, we will also try some mixing for spatial audio.  
+
+We will keep developing our sound objects during the entire class, and then share with everyone at the end of the term.  Our goal is to prepare the sound objects so that they can be uploaded as an album on Bandcamp (and possibly the streaming services), but this is optional, and you can decide whether or not to share your work.
+
+The goal is to practice and to experiment with recording, mixing, adding effects, editing, and transforming sounds.  Ideally, we will get to the point where we can experiment with using surround sound mixing in the Spatial Sound Lab as well.  
+
+ 
 
 ### Session 6 due
 
