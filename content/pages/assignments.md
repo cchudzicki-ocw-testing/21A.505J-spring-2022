@@ -9,6 +9,14 @@ uid: 3adf174e-7941-4d88-9854-eb4b1eb6c643
 
 Students will create a sound object — a musical or sound art composition, a soundscape, a podcast, a mash-up, a supercut—by semester’s end. In-class sessions will provide guidance on digital audio workstations, mixing, studio use. An aspirational goal of the class will be to create an album we can post on [Bandcamp](https://bandcamp.com/).
 
+For further detail, click on the links below.
+
+Session 3 assignment
+
+Session 5 assignment
+
+Session 6 assignment
+
 ### Session 3 due
 
 Please make a beat and come prepared to share it with the class.
