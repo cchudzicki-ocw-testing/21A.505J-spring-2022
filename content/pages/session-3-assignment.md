@@ -27,4 +27,4 @@ Please start here, so we have some shared knowledge.  Afterwards, exploring bey
 
 *Optional, for more advanced users*
 
-“[Made in Ableton Live: Eomac on designing drums and bass from field recordings and more](https://www.youtube.com/watch?v=iM9znya6W2A).”
+“[Made in Ableton Live: Eomac on designing drums and bass from field recordings and more](https://www.youtube.com/watch?v=iM9znya6W2A).” YouTube.
