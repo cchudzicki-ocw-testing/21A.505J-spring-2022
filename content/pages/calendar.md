@@ -107,6 +107,8 @@ See [Assignments](https://draft.ocw.mit.edu/courses/21a-505j-the-anthropology-of
 
 ### Session 11: Mastering vs. Spatializing for Final Mixes \[C\] 
 
+See [Assignments](https://draft.ocw.mit.edu/courses/21a-505j-the-anthropology-of-sound-spring-2022/pages/assignments/) section for further detail.
+
 ### Session 12: The Sounds of Science \[H\] 
 
 ### Session 13: Discussion and reflection on final recording projects, processes of learning, and participant-observation in music and technology \[C & H\] 
