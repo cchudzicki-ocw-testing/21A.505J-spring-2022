@@ -67,7 +67,7 @@ Assignment due: Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b
 
 ### Session 7: Mid-Term Sharing of Sound Object Project \[C\] 
 
-*Please come to class prepared to share a sample of your work so far on your sound object, duration of roughly 1 1/2 to 4 minutes long. Length is flexible. Consider the goals of the sound object production too, and try to incorporate various combinations of sampling, recording, MIDI, mixing, adding effects, spatializing, etc. Please also come ready to discuss your process, the skills you've learned or worked on, some of your discoveries, and some of your outstanding questions and concerns. This is about making a sound object, but it's also about reflecting on the learning process, how we adapt to uncertainty, and the complex experience of "making something for ourselves" alongside "sharing with others."*
+See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.
 
 ### Session 8: Sound, Culture, Technology, Property \[C & H\] 
 
