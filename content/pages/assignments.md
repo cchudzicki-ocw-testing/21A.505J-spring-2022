@@ -11,9 +11,9 @@ Students will create a sound object — a musical or sound art composition, a so
 
 For further detail, click on the links below.
 
-Session 3 assignment
+{{% resource_link "bebf9bcc-e1d3-45b5-9b75-be555f26fd64" "Session 3 assignment" %}}
 
-Session 5 assignment
+{{% resource_link "f273603f-09a7-4afc-81d4-facb136a67ca" "Session 5 assignment" %}}
 
 Session 6 assignment
 
