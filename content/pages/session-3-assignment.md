@@ -15,7 +15,7 @@ You may use a combination of samples, but I encourage working with the MIDI “p
 
 If you have time, I encourage you to experiment with different kinds of beats and audio sources.  Best is to try to make several examples, and then choose your favorite to demo.
 
-*Resources:*
+### Resources
 
 Please start here, so we have some shared knowledge.  Afterwards, exploring beyond is fine.
 
@@ -25,4 +25,6 @@ Please start here, so we have some shared knowledge.  Afterwards, exploring bey
 
 [Top 10 Beats for Music Producers](https://www.fineartsmatter.com/resources/top-10-beats-every-music-producer-should-know), a comparison of different genres and styles. fineArtsMatter. 
 
-Using [Ableton](https://www.ableton.com/en/), a Digital Audio Workstation, create a rhythmic segment between two and 16 measures long. Be prepared to share about 30 seconds of your audio in class. We’ll be curious to hear about your process, and about your observations around learning, improvising, and evaluating your different attempts.
+*Optional, for more advanced users*
+
+“[Made in Ableton Live: Eomac on designing drums and bass from field recordings and more](https://www.youtube.com/watch?v=iM9znya6W2A).”
