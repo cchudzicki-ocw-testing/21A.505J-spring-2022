@@ -19,3 +19,13 @@ leftnav:
   name: Assignments
   url: /pages/assignments
   weight: 50
+- identifier: bebf9bcc-e1d3-45b5-9b75-be555f26fd64
+  name: Session 3 Assignment
+  parent: 3adf174e-7941-4d88-9854-eb4b1eb6c643
+  url: /pages/session-3-assignment
+  weight: 10
+- identifier: f273603f-09a7-4afc-81d4-facb136a67ca
+  name: Session 5 Assignment
+  parent: 3adf174e-7941-4d88-9854-eb4b1eb6c643
+  url: /pages/session-5-assignment
+  weight: 20
