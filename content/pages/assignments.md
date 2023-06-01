@@ -20,3 +20,5 @@ Session 6 assignment (Paper 1): Students will write a short (1500 words) paper o
 {{% resource_link "8e8877ac-f352-459f-bb2c-3c8a19cd287b" "Session 7 assignment" %}}
 
 {{% resource_link "1808ea10-44bd-47b9-a226-decb2166c674" "Session 9 assignment" %}}
+
+{{% resource_link "c0300e20-c083-4b7a-ad86-5d1128fe9ede" "Session 11 assignment" %}}
