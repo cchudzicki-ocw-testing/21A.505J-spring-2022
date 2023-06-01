@@ -85,6 +85,8 @@ See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} s
 
 ### Session 9: Mixing, EQ, Compression, Other Effects \[C\] 
 
+See [Assignments](https://draft.ocw.mit.edu/courses/21a-505j-the-anthropology-of-sound-spring-2022/pages/assignments/) section for further detail.
+
 ### Session 10: Sonic Privacy, Sonic Publics \[H\] 
 
 *Sound/video examples and excerpts in class*
