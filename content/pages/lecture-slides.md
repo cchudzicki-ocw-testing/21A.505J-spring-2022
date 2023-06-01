@@ -13,7 +13,7 @@ The following lecture slides were utilized during this course. 
 
 ### Session 4
 
-{{% resource_link "2bb30bfd-0830-41f7-af84-fd9c089cf3c2" "Listening Machines (PDF - 2.4MB)" %}}
+{{% resource_link "2bb30bfd-0830-41f7-af84-fd9c089cf3c2" "Listening Machines (PDF - 2.2MB)" %}}
 
 ### Session 6
 
