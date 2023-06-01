@@ -15,8 +15,6 @@ For further detail, click on the links below.
 
 {{% resource_link "f273603f-09a7-4afc-81d4-facb136a67ca" "Session 5 assignment" %}}
 
-Session 6 assignment (Paper 1):
-
-Students will write a short (1500 words) paper on any aspect of the readings up through that date that have inspired them and that may inflect the making of their class sound object.
+Session 6 assignment (Paper 1): Students will write a short (1500 words) paper on any aspect of the readings up through that date that have inspired them and that may inflect the making of their class sound object.
 
 {{% resource_link "8e8877ac-f352-459f-bb2c-3c8a19cd287b" "Session 7 assignment" %}}
