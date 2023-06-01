@@ -7,15 +7,15 @@ uid: 1808ea10-44bd-47b9-a226-decb2166c674
 ---
 ### Using EQ and Compression for Mastering Your Mix
 
- Please bring the current version of your sound project to share with the class.  
+Please bring the current version of your sound project to share with the class.  
 
 For this class, please continue to work on your sound project in whatever directions you feel are useful.  
 
-Please remember the Tomo Fujita tips for learning to make music:  Don't worry.  Don't compare.  Don't expect too fast.  Be kind to yourself.  
+Please remember the Tomo Fujita tips for learning to make music: Don't worry. Don't compare. Don't expect too fast. Be kind to yourself.  
 
 In addition this week, I also ask you to experiment with EQ and Compression.  
 
-In [Ableton Live](https://www.ableton.com/en/live/), I recommend trying the EQ8 (or the EQ3) audio effect to adjust the mix of frequencies in your mix.  I also recommend trying the Glue Compressor to adjust the loudness profile.  Remember to try a lot of A/B testing to see if you can learn to hear what these different audio effects do.  
+In [Ableton Live](https://www.ableton.com/en/live/), I recommend trying the EQ8 (or the EQ3) audio effect to adjust the mix of frequencies in your mix. I also recommend trying the Glue Compressor to adjust the loudness profile.  Remember to try a lot of A/B testing to see if you can learn to hear what these different audio effects do.  
 
 How would you describe the differences in sound that you experience using these tools?  
 
