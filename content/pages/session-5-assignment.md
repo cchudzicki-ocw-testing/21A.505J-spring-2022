@@ -13,7 +13,7 @@ If you’re already familiar with the music theory, you can skip to the “Bass 
 
 If you’d like to experiment with different genres of rhythms, this tutorial is useful:
 
- [“How to make drum patterns - rhythms every producer SHOULD know (FREE MIDI)| Splice.”](https://www.youtube.com/watch?v=zOVSOvsTXto) YouTube.
+ “[How to make drum patterns - rhythms every producer SHOULD know (FREE MIDI)| Splice](https://www.youtube.com/watch?v=zOVSOvsTXto).” YouTube.
 
 ### Proposal for your final project
 
