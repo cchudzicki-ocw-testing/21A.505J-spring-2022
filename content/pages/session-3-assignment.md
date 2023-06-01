@@ -15,7 +15,7 @@ You may use a combination of samples, but I encourage working with the MIDI “p
 
 If you have time, I encourage you to experiment with different kinds of beats and audio sources.  Best is to try to make several examples, and then choose your favorite to demo.
 
-Resources:
+*Resources:*
 
 Please start here, so we have some shared knowledge.  Afterwards, exploring beyond is fine.
 
