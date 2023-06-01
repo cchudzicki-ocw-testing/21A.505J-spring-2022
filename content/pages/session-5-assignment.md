@@ -5,7 +5,7 @@ draft: false
 title: Session 5 Assignment
 uid: f273603f-09a7-4afc-81d4-facb136a67ca
 ---
-1) Please bring a short sample of music you made to share in class:  rhythm + melody, or chords, or bass, or some other sounds
+### Please bring a short sample of music you made to share in class:  rhythm + melody, or chords, or bass, or some other sounds
 
 For a nice overview of concepts, music knowledge, approaches, and examples, please visit [Get Started Making Music](https://learningmusic.ableton.com/) at Ableton.
 
@@ -15,7 +15,7 @@ If you’d like to experiment with different genres of rhythms, this tutorial is
 
  [“How to make drum patterns - rhythms every producer SHOULD know (FREE MIDI)| Splice.”](https://www.youtube.com/watch?v=zOVSOvsTXto) YouTube.
 
-2) Proposal for your final project. 
+### Proposal for your final project
 
 Please write one paragraph (less than a page, double spaced.)  Your project can be vague and aspirational.  Please choose a direction that helps you explore some skills you might be interested in learning.  
 
