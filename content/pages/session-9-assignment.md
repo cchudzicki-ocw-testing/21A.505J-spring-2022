@@ -5,3 +5,4 @@ draft: false
 title: Session 9 Assignment
 uid: 1808ea10-44bd-47b9-a226-decb2166c674
 ---
+### Using EQ and Compression for Mastering your mix
