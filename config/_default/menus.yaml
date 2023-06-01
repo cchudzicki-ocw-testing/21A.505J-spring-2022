@@ -29,3 +29,8 @@ leftnav:
   parent: 3adf174e-7941-4d88-9854-eb4b1eb6c643
   url: /pages/session-5-assignment
   weight: 20
+- identifier: 8e8877ac-f352-459f-bb2c-3c8a19cd287b
+  name: Session 7 Assignment
+  parent: 3adf174e-7941-4d88-9854-eb4b1eb6c643
+  url: /pages/session-7-assignment
+  weight: 30
