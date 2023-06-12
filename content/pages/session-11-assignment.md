@@ -25,7 +25,7 @@ The short version is this:  
 
 Download Envelop for Live tools.
 
-Add an E4L Master Bus to an audio track. This is where you designate the spatial mix (stereo, binaural, quad, octo, etc).  Use binaural for headphone monitoring.
+Add an E4L Master Bus to an audio track. This is where you designate the spatial mix (stereo, binaural, quad, octo, etc). Use binaural for headphone monitoring.
 
 To each audio track of your composition, add the E4L Source Panner. If you have other effects, such as reverb or compression, please add the Source Panner at the end of your effects chains (right-most position in the effects window). Now you can pan that particular audio track in 360-degrees. Experiment with locating different tracks, different sounds in different locations in space. Use the Azim knob to rotate sounds. Changing the radius will make the sound louder and more central. Keep the radius at 1 (all the way outside) for more pronounced spatial mixing.  
 
