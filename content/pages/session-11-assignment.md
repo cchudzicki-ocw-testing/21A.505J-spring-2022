@@ -9,9 +9,9 @@ uid: c0300e20-c083-4b7a-ad86-5d1128fe9ede
 
 Please prepare your musical project for spatial mixing during Session 12.  There are a few options:
 
-1) If possible, please prepare your composition so that different parts are in different tracks.  In the Lab, during class, we will map those tracks to positions in space using the d&b Soundscape technology.  
+1) If possible, please prepare your composition so that different parts are in different tracks.  In the Lab, during class, we will map those tracks to positions in space using the [d&b Soundscape](https://www.dbsoundscape.com/global/en/) technology.  
 
-2) Please also prepare a stereo version of your track (i.e., mixed down to two tracks, right and left).  In Live, you can do this by using File > Export Audioo/Video.  There are many possible settings here. I encourage you to Encode PCM using WAV or AIFF.  We can use this version to test the quad splitter circuit board in the Lab.  How do the decisions made by the circuit board differ from separating our compositions by instrument or sample?  
+2) Please also prepare a stereo version of your track (i.e., mixed down to two tracks, right and left).  In Live, you can do this by using File > Export Audio/Video.  There are many possible settings here. I encourage you to Encode PCM using WAV or AIFF.  We can use this version to test the quad splitter circuit board in the Lab.  How do the decisions made by the circuit board differ from separating our compositions by instrument or sample?  
 
 3) Use the panning knobs for each track to create different kinds of spatialized mixes.  Some of the reverb and delay tools offer various spatialization techniques as well, such as ping pong or reverberating cave effects.  Can you find any interesting effects to giving your sounds more of a sense of space? 
 
