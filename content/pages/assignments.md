@@ -23,4 +23,4 @@ Session 6 assignment (Paper 1): Students will write a short (1500 words) paper o
 
 {{% resource_link "c0300e20-c083-4b7a-ad86-5d1128fe9ede" "Session 11 assignment" %}}
 
-Session 12 assignment (Paper 2): A final paper (1500 words or so) should accompany the sound object, pointing to readings that have been useful, to the object’s intent, and more.
+Session 13 assignment (Paper 2): A final paper (1500 words or so) should accompany the sound object, pointing to readings that have been useful, to the object’s intent, and more.
