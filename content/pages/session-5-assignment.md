@@ -17,7 +17,7 @@ If you’d like to experiment with different genres of rhythms, this tutorial is
 
 ### Proposal for your final project
 
-Please write one paragraph (less than a page, double spaced.)  Your project can be vague and aspirational. Please choose a direction that helps you explore some skills you might be interested in learning.  
+Please write one paragraph (less than a page, double spaced.) Your project can be vague and aspirational. Please choose a direction that helps you explore some skills you might be interested in learning.  
 
 Some possible sound objects:
 
@@ -30,7 +30,7 @@ Some possible sound objects:
 
 ### Some goals
 
-Practice audio composition in a DAW (digital audio workstation, such as [Ableton Live](https://www.ableton.com/en/live/), [Reaper](https://www.reaper.fm/), or other); make rhythms and add melody; practice mixing and arranging; extend our use of audio effects (e.g., reverb, compression, warping, etc.); and prepare your audio for distribution (mastering, audio formats).  If time, we will also try some mixing for spatial audio.  
+Practice audio composition in a DAW (digital audio workstation, such as [Ableton Live](https://www.ableton.com/en/live/), [Reaper](https://www.reaper.fm/), or other); make rhythms and add melody; practice mixing and arranging; extend our use of audio effects (e.g., reverb, compression, warping, etc.); and prepare your audio for distribution (mastering, audio formats). If time, we will also try some mixing for spatial audio.  
 
 We will keep developing our sound objects during the entire class, and then share with everyone at the end of the term. Our goal is to prepare the sound objects so that they can be uploaded as an album on [Bandcamp](https://bandcamp.com/) (and possibly the streaming services), but this is optional, and you can decide whether or not to share your work.
 
