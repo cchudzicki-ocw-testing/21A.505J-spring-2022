@@ -15,7 +15,7 @@ Please remember the Tomo Fujita tips for learning to make music: Don't worry. Do
 
 In addition this week, I also ask you to experiment with EQ and Compression.  
 
-In [Ableton Live](https://www.ableton.com/en/live/), I recommend trying the EQ8 (or the EQ3) audio effect to adjust the mix of frequencies in your mix. I also recommend trying the Glue Compressor to adjust the loudness profile.  Remember to try a lot of A/B testing to see if you can learn to hear what these different audio effects do.  
+In [Ableton Live](https://www.ableton.com/en/live/), I recommend trying the EQ8 (or the EQ3) audio effect to adjust the mix of frequencies in your mix. I also recommend trying the Glue Compressor to adjust the loudness profile. Remember to try a lot of A/B testing to see if you can learn to hear what these different audio effects do.  
 
 How would you describe the differences in sound that you experience using these tools?  
 
