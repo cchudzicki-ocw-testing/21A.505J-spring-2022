@@ -5,7 +5,7 @@ draft: false
 title: Session 3 Assignment
 uid: bebf9bcc-e1d3-45b5-9b75-be555f26fd64
 ---
-Please make a beat and come prepared to share it with the class.
+**Please make a beat and come prepared to share it with the class.**
 
 I encourage people to download a (free) trial version of [Ableton Live](https://www.ableton.com/en/live/). If you prefer to use a different DAW (digital audio workstation), I’m open, but let’s discuss. 
 
