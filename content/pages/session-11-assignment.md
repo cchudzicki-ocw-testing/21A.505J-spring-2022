@@ -37,4 +37,4 @@ Remember the Tomo Fujita rules for music learning:
 
 Don't worry. Don't compare.  Don't expect too fast.  Be kind to yourself.  
 
-Good luck, and see you during Session 12.
+Good luck, and see you during session 12.
