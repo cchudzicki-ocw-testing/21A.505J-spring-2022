@@ -7,7 +7,7 @@ uid: c0300e20-c083-4b7a-ad86-5d1128fe9ede
 ---
 ### Preparing your file for spatial mixing + mix down to stereo
 
-Please prepare your musical project for spatial mixing during Session 12.  There are a few options:
+Please prepare your musical project for spatial mixing during session 12.  There are a few options:
 
 1) If possible, please prepare your composition so that different parts are in different tracks. In the Lab, during class, we will map those tracks to positions in space using the [d&b Soundscape](https://www.dbsoundscape.com/global/en/) technology.  
 
