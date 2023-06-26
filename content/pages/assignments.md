@@ -24,3 +24,16 @@ Session 6 assignment (Paper 1): Students will write a short (1500 words) paper o
 {{% resource_link "c0300e20-c083-4b7a-ad86-5d1128fe9ede" "Session 11 assignment" %}}
 
 Session 13 assignment (Paper 2): A final paper (1500 words or so) should accompany the sound object, pointing to readings that have been useful, to the object’s intent, and more.
+
+*Student Example*
+
+{{% resource_link "4fc383cf-03af-4938-bbac-1bee8a63004a" "“Paradigm Shifts.” (MP3)" %}}
+
+This example attempts to think, across its four parts, about:
+
+- the mundanity of sound
+- the contrast between unadorned versus technologically souped-up sound
+- the tactility of sound 
+- the vibratory realm that might unite hearing and deaf apprehension of sound. 
+
+Note: Student examples appear courtesy of MIT students and are anonymous unless otherwise requested.
