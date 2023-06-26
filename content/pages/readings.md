@@ -5,31 +5,29 @@ draft: false
 title: Readings
 uid: d1c213c0-a354-4d24-9f7b-03ce0ef56f6c
 ---
-## \[C\] Session taught by Prof. Ian Condry; \[H\] Session taught by Prof. Stefan Helmreich
+\[C\] Session taught by Prof. Ian Condry; \[H\] Session taught by Prof. Stefan Helmreich
 
-### Session 1: Introduction to the Course \[C & H\] 
+## Session 1: Introduction to the Course \[C & H\] 
 
 No readings assigned.
 
-### Session 2: Soundscapes, Acoustemologies, Space, Culture \[H\] 
+## Session 2: Soundscapes, Acoustemologies, Space, Culture \[H\] 
 
 Schafer, R. Murray. “Introduction.” In *The Soundscape: Our Sonic Environment and the Tuning of the World*. Destiny Books, 1993. ISBN: ‎9780892814558. \[Preview with [Google Books](https://www.google.com/books/edition/The_Soundscape/-FsoDwAAQBAJ?hl=en&gbpv=1)\]
 
 Feld, Steven. “A Rainforest Acoustemology.” Chapter 12 in *The Auditory Culture Reader*. 1<sup>st</sup> ed. Edited by Michael Bull and Les Back. Berg Publishers, 2004. ISBN: ‎9781859736180.
 
-Thompson, Emily. “Introduction: Sound, Modernity and History.” Chapter 1 in [*The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900–1933*](https://mitpress.mit.edu/9780262701068/the-soundscape-of-modernity/). MIT Press, 2004. ISBN: ‎9780262701068. \[Preview with [Google Books](https://www.google.com/books/edition/The_Soundscape_of_Modernity/Gr9NEAAAQBAJ?hl=en&gbpv=1)\]
-
-———. “The Origins of Modern Acoustics.” Excerpts from Chapter 2 in [*The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900–1933*](https://mitpress.mit.edu/9780262701068/the-soundscape-of-modernity/). MIT Press, 2004. ISBN: ‎9780262701068. \[Preview with [Google Books](https://www.google.com/books/edition/The_Soundscape_of_Modernity/Gr9NEAAAQBAJ?hl=en&gbpv=1)\] *(If you’re interested, there is a lecture version of parts of Chapter 2* [*here*](http://videolectures.net/mitworld_thompson_sm/)*.)*
+Thompson, Emily. “Introduction: Sound, Modernity and History,” and“The Origins of Modern Acoustics.” Chapter 1 and excerpts from Chapter 2 in [*The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900–1933*](https://mitpress.mit.edu/9780262701068/the-soundscape-of-modernity/). MIT Press, 2004. ISBN: ‎9780262701068. \[Preview with [Google Books](https://www.google.com/books/edition/The_Soundscape_of_Modernity/Gr9NEAAAQBAJ?hl=en&gbpv=1)\] *(If you’re interested, there is a lecture version of parts of Chapter 2* [*here*](http://videolectures.net/mitworld_thompson_sm/)*.)*
 
 Henriques, Julian. “[Sonic Diaspora, Vibrations, and Rhythm: Thinking through the Sounding of the Jamaican Dancehall Session](https://www.tandfonline.com/doi/abs/10.1080/17528630802224163).” *African and* *Black Diaspora: An International Journal* 1, no. 2 (2008): 215–36.
 
 Scott, Sarah Mayberry. “[Sonic Lessons of the Covid-19 Soundscape](https://soundstudiesblog.com/2021/08/02/sonic-lessons-of-the-covid-19-soundscape/).” August 2, 2021. Sounding Out!
 
-### Session 3: Make a Beat to Share in Class \[C\]
+## Session 3: Make a Beat to Share in Class \[C\]
 
 Ueno, Toshiya. "[Resilience through Rituals](https://cir.nii.ac.jp/crid/1050282677922527872)." *The Bulletin of the Faculty of Representational Studies* 14 (2014): 41–51.
 
-### Session 4: Listening Machines \[H\] 
+## Session 4: Listening Machines \[H\] 
 
 Sterne, Jonathan. “Machines to Hear for Them.” Chapter 1 in *The Audible Past: Cultural Origins of Sound Reproduction*. Duke University Press, 2003. ISBN: 9780822330134. \[Preview with [Google Books](https://www.google.com/books/edition/The_Audible_Past/C87CDAAAQBAJ?hl=en&gbpv=1)\]
 
@@ -39,11 +37,11 @@ Friedner, Michele, and Stefan Helmreich. “[Sound Studies Meets Deaf Studies](h
 
 Semel, Beth M. “[Listening Like a Computer: Attentional Tensions and Mechanized Care in Psychiatric Digital Phenotyping](https://journals.sagepub.com/doi/10.1177/01622439211026371).” *Science, Technology & Human Values* 47, no. 2 (2022): 266–90.
 
-### Session 5: Propose the Sound Object You Will Work on this Term; Bring a Clip to Demo Ideas \[C\] 
+## Session 5: Propose the Sound Object You Will Work on this Term; Bring a Clip to Demo Ideas \[C\] 
 
 No readings assigned.
 
-### Session 6: Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming \[H\] 
+## Session 6: Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming \[H\] 
 
 Davis, Erik. “Recording Angels: The Esoteric Origins of the Phonograph.” In *Undercurrents: The Hidden Wiring of Modern Music*. Edited by Rob Young. Continuum, 2002. ISBN: ‎9780826464507. \[Preview with [Google Books](https://www.google.com/books/edition/Undercurrents/ypu6BwAAQBAJ?hl=en&gbpv=1)\]
 
@@ -55,13 +53,13 @@ Sterne, Jonathan. “[The MP3 as Cultural Artifact](https://journals.sagepub.com
 
 Seaver, Nick. “[Captivating Algorithms: Recommender Systems as Traps](https://journals.sagepub.com/doi/abs/10.1177/1359183518820366).” *Journal of Material Culture* 24, no. 4 (2019): 421–36.
 
-### Session 7: Mid-Term Sharing of Sound Object Project \[C\] 
+## Session 7: Mid-Term Sharing of Sound Object Project \[C\] 
 
 No readings assigned.
 
-### Session 8: Sound, Culture, Technology, Property \[C & H\] 
+## Session 8: Sound, Culture, Technology, Property \[C & H\] 
 
-Feld, Steven. “[Pygmy POP: A Genealogy of Schizophonic Mimesis](https://www.jstor.org/stable/767805).” *Yearbook for Traditional Music* 28 (1996): 1–35.
+Feld, Steven. “[Pygmy POP: A Genealogy of Schizophonic Mimesis](https://www.cambridge.org/core/journals/yearbook-for-traditional-music/article/abs/pygmy-pop-a-genealogy-of-schizophonic-mimesis/734F752B28775C4DEE2073F7FA97B7DB).” *Yearbook for Traditional Music* 28 (1996): 1–35.
 
 Clayton, Jace (aka DJ Rupture). “Confessions of a DJ.” Chapter 1 in *Uproot: Travels in 21st-Century Music and Digital Culture*. FSG Originals, 2016. ISBN: ‎9780374533427. \[Preview with [Google Books](https://www.google.com/books/edition/Uproot/4c2uDAAAQBAJ?hl=en&gbpv=1)\]
 
@@ -73,11 +71,11 @@ Thaemlitz, Terre. “[Social Media Content Removal Fail](http://www.comatonse.co
 
 “[What the Hell is Terre’s Problem?!!](http://comatonse.com/minor/)” Comatonse Recordings.
 
-### Session 9: Mixing, EQ, Compression, Other Effects \[C\] 
+## Session 9: Mixing, EQ, Compression, Other Effects \[C\] 
 
 No readings assigned.
 
-### Session 10: Sonic Privacy, Sonic Publics \[H\] 
+## Session 10: Sonic Privacy, Sonic Publics \[H\] 
 
 Hsieh, Jennifer C. “[Piano Transductions: Music, Sound and Noise in Urban Taiwan](https://www.tandfonline.com/doi/full/10.1080/20551940.2018.1564459).” *Sound Studies: An Interdisciplinary Journal* 5, no. 1 (2019): 4–21.
 
@@ -85,11 +83,11 @@ Hagood, Mack. “Beats by Dre: Race and the Sonic Interface.” Chapter 6 in *Hu
 
 McDaniel, Byrd.  “[A New Age of Protest Music](https://www.bostonreview.net/articles/byrd-mcdaniel-where-has-all-protest-music-gone/).” *Boston Review*, June 22, 2020. 
 
-### Session 11: Mastering vs. Spatializing for Final Mixes \[C\] 
+## Session 11: Mastering vs. Spatializing for Final Mixes \[C\] 
 
 No readings assigned.
 
-### Session 12: The Sounds of Silence \[H\]
+## Session 12: The Sounds of Silence \[H\]
 
 Helmreich, Stefan. “[An Anthropologist Underwater: Immersive Soundscapes, Submarine Cyborgs, and Transductive Ethnography](https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/ae.2007.34.4.621).” *American Ethnologist* 34, no. 4 (2007): 621–41.
 
@@ -108,8 +106,8 @@ Supper, Alexandra. “[Lobbying for the Ear, Listening with the Whole Body: The 
 - *Various music made with Artificial Intelligence:*
     - [*AAI*](https://mouseonmars.bandcamp.com/album/aai). Mouse on Mars. 2021. Bandcamp.
     - “[Deep Time and Intelligence panel presentation at MIT: 2021 'Unfolding Intelligence' Symposium](https://www.youtube.com/watch?v=LKQxuI5udWE).” (Holly Hernon presentation.) YouTube.
-    - Murray, Eoin. “[Recognise: Debit](https://djmag.com/features/recognise-debit).” DJ Mag, February 2, 2022. 
+    - Murray, Eoin. “[Recognise: Debit](https://djmag.com/features/recognise-debit).” *DJ Mag*, February 2, 2022. 
 
-### Session 13: Discussion and reflection on final recording projects, processes of learning, and participant-observation in music and technology \[C & H\]
+## Session 13: Discussion and reflection on final recording projects, processes of learning, and participant-observation in music and technology \[C & H\]
 
 No readings assigned.
