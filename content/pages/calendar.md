@@ -5,11 +5,11 @@ draft: false
 title: Calendar
 uid: 4b15eebb-b71a-407b-805f-b455ed1dc730
 ---
-## \[C\] Session taught by Prof. Ian Condry; \[H\] Session taught by Prof. Stefan Helmreich
+\[C\] Session taught by Prof. Ian Condry; \[H\] Session taught by Prof. Stefan Helmreich
 
-### Session 1: Introduction to the Course \[C & H\]
+## Session 1: Introduction to the Course \[C & H\]
 
-### Session 2: Soundscapes, Acoustemologies, Space, Culture \[H\] 
+## Session 2: Soundscapes, Acoustemologies, Space, Culture \[H\] 
 
 *Sound/video examples and excerpts in class*
 
@@ -23,13 +23,13 @@ uid: 4b15eebb-b71a-407b-805f-b455ed1dc730
 - [*Lovers Rock*](https://www.imdb.com/title/tt10551102/?ref_=fn_al_tt_5). Directed by Steve McQueen. Color, 70 min. 2020.  
 - “[TCI IRL: Quarantine Supercut: The Creative Independent](https://soundcloud.com/user-597121341/tci-irl-the-sound-of-quarantine?ref=section-tci-irl-promo-open-call-quarantine-supercut-with-drew-daniel)." Assembled and produced by Drew Daniel. 2020. Soundcloud.
 
-### Session 3: Make a Beat to Share in Class \[C\]
+## Session 3: Make a Beat to Share in Class \[C\]
 
 Guest: Toshiya Ueno, author, DJ, professor from Japan.
 
 Assignment due: Beat sharing due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
 
-### Session 4: Listening Machines \[H\] 
+## Session 4: Listening Machines \[H\] 
 
 Guest: Dr. Beth Semel, MIT Department of Anthropology.
 
@@ -44,11 +44,11 @@ Guest: Dr. Beth Semel, MIT Department of Anthropology.
 - “[Synapse: Robin Fox and the Bionic Ear](https://www.youtube.com/watch?v=HLX-rPsphV8).” YouTube.
 - “[D-PAN Interview: Christine Sun Kim - Sound Artist](https://www.youtube.com/watch?v=cW3ZeoM5PsE).” YouTube.
 
-### Session 5: Propose the Sound Object You Will Work on this Term; Bring a Clip to Demo Ideas \[C\] 
+## Session 5: Propose the Sound Object You Will Work on this Term; Bring a Clip to Demo Ideas \[C\] 
 
 Assignment due: Sound object proposal due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
 
-### Session 6: Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming \[H\] 
+## Session 6: Phonograph Records, Tape, Compact Discs, MP3s, Algorithmic Streaming \[H\] 
 
 *Sound/video examples and excerpts in class*
 
@@ -65,11 +65,11 @@ Assignment due: Sound object proposal due (See {{% resource_link "3adf174e-7941-
 
 Assignment due: Paper 1 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
 
-### Session 7: Mid-Term Sharing of Sound Object Project \[C\] 
+## Session 7: Mid-Term Sharing of Sound Object Project \[C\] 
 
 See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.
 
-### Session 8: Sound, Culture, Technology, Property \[C & H\] 
+## Session 8: Sound, Culture, Technology, Property \[C & H\] 
 
 *Sound/video examples and excerpts in class*
 
@@ -83,11 +83,11 @@ See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} s
 - “[DJ /rupture - Gold Teeth Thief](https://www.youtube.com/watch?v=9y6IbLbypWo).” 2001. YouTube.
 - Boone, Christine. “[Gendered Power Relationships in Mashups](https://mtosmt.org/issues/mto.18.24.1/mto.18.24.1.boone.html).” *Music Theory Online* 24, no. 1 (2018).
 
-### Session 9: Mixing, EQ, Compression, Other Effects \[C\] 
+## Session 9: Mixing, EQ, Compression, Other Effects \[C\] 
 
 See [Assignments](https://draft.ocw.mit.edu/courses/21a-505j-the-anthropology-of-sound-spring-2022/pages/assignments/) section for further detail.
 
-### Session 10: Sonic Privacy, Sonic Publics \[H\] 
+## Session 10: Sonic Privacy, Sonic Publics \[H\] 
 
 *Sound/video examples and excerpts in class*
 
@@ -105,12 +105,12 @@ See [Assignments](https://draft.ocw.mit.edu/courses/21a-505j-the-anthropology-of
 
 - “[Maria Sonevytsky, "Understanding the War on Ukraine through Its Musical Culture](https://www.youtube.com/watch?v=Ex6R1-XGg9s&t=1s).” (Online lecture at Bard College, February 2022.) YouTube.
 
-### Session 11: Mastering vs. Spatializing for Final Mixes \[C\] 
+## Session 11: Mastering vs. Spatializing for Final Mixes \[C\] 
 
 See [Assignments](https://draft.ocw.mit.edu/courses/21a-505j-the-anthropology-of-sound-spring-2022/pages/assignments/) section for further detail.
 
-### Session 12: The Sounds of Science \[H\] 
+## Session 12: The Sounds of Science \[H\] 
 
-### Session 13: Discussion and reflection on final recording projects, processes of learning, and participant-observation in music and technology \[C & H\] 
+## Session 13: Discussion and reflection on final recording projects, processes of learning, and participant-observation in music and technology \[C & H\] 
 
 Assignment due: Sound object and Paper 2 due (See {{% resource_link "3adf174e-7941-4d88-9854-eb4b1eb6c643" "Assignments" %}} section for further detail.)
