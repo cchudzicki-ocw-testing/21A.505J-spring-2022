@@ -34,6 +34,6 @@ This example attempts to think, across its four parts, about:
 - the mundanity of sound
 - the contrast between unadorned versus technologically souped-up sound
 - the tactility of sound 
-- the vibratory realm that might unite hearing and deaf apprehension of sound. 
+- the vibratory realm that might unite hearing and deaf apprehension of sound
 
 Note: Student examples appear courtesy of MIT students and are anonymous unless otherwise requested.
