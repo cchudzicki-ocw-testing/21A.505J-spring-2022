@@ -27,7 +27,7 @@ Session 13 assignment (Paper 2): A final paper (1500 words or so) should accompa
 
 *Student Examples*
 
-{{% resource_link "15c07763-2687-40a9-a952-4a6e70e63be0" "“Paradigm Shifts,” (AIF)" %}}, and its accompanying {{% resource_link "1b2ca207-a0bb-4a71-b035-8c78d62b7191" "“Final Paper.” (PDF)" %}}
+{{% resource_link "15c07763-2687-40a9-a952-4a6e70e63be0" "“Paradigm Shifts,”(AIF)" %}}, and its accompanying {{% resource_link "1b2ca207-a0bb-4a71-b035-8c78d62b7191" "“Final Paper.”(PDF)" %}}
 
 This example attempts to think, across its four parts, about:
 
