@@ -29,7 +29,7 @@ Session 13 assignment (Paper 2): A final paper (1500 words or so) should accompa
 
 {{% resource_link "4fc383cf-03af-4938-bbac-1bee8a63004a" "“Paradigm Shifts.” (MP3)" %}}
 
-“Paradigm Shifts.” (AIFF)
+{{% resource_link "15c07763-2687-40a9-a952-4a6e70e63be0" "“Paradigm Shifts.” (AIF)" %}}
 
 This example attempts to think, across its four parts, about:
 
