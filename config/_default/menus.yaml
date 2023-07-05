@@ -15,13 +15,13 @@ leftnav:
   name: Lecture Slides
   pageRef: /pages/lecture-slides
   weight: 40
-- identifier: 3adf174e-7941-4d88-9854-eb4b1eb6c643
-  name: Assignments
-  pageRef: /pages/assignments
-  weight: 50
 - identifier: a4d2f3a3-82fb-4522-a57b-ce78cd093711
   name: Trial Lecture Slides
   pageRef: /lists/trial-lecture-slides
+  weight: 50
+- identifier: 3adf174e-7941-4d88-9854-eb4b1eb6c643
+  name: Assignments
+  pageRef: /pages/assignments
   weight: 60
 - identifier: bebf9bcc-e1d3-45b5-9b75-be555f26fd64
   name: Session 3 Assignment
