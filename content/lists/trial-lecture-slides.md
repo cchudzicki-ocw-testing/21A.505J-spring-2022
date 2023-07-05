@@ -12,6 +12,6 @@ resources:
   - 9539cb05-b249-4176-a217-2dc9b61875be
   - dbf39780-3b87-49bf-8819-de57ac456b3b
   website: the-anthropology-of-sound
-title: Trial Lecture Slides
+title: Lecture Slides
 uid: a4d2f3a3-82fb-4522-a57b-ce78cd093711
 ---
