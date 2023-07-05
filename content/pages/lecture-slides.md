@@ -7,7 +7,7 @@ uid: 8461c4b6-eeb2-4f9d-bf99-66d11b37571f
 ---
 The following lecture slides were utilized during this course. 
 
-Note: There weren't any lecture slides for sessions 1, 3, 5, 7, 9, 11, and 13.
+Note: There aren't any lecture slides for sessions 1, 3, 5, 7, 9, 11, and 13.
 
 ### Session 2
 
