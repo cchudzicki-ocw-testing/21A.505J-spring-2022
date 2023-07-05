@@ -5,7 +5,7 @@ draft: false
 title: Lecture Slides
 uid: 8461c4b6-eeb2-4f9d-bf99-66d11b37571f
 ---
-The following lecture slides were utilized during this course. 
+The following lecture slides were utilized during this course. Sessions not listed below did not utilize lecture slides.
 
 ### Session 2
 
