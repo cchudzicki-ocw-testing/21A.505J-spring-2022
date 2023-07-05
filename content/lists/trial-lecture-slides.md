@@ -1,6 +1,7 @@
 ---
 content_type: resource-list
-description: This section contains the lecture slides.
+description: "The following lecture slides were utilized during this course.\_\n\n\
+  Note: There aren\u2019t any lecture slides for sessions 1, 3, 5, 7, 9, 11, and 13."
 draft: false
 resources:
   content:
