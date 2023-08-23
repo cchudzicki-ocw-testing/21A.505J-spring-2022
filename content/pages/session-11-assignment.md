@@ -5,7 +5,7 @@ draft: false
 title: Session 11 Assignment
 uid: c0300e20-c083-4b7a-ad86-5d1128fe9ede
 ---
-### Preparing your file for spatial mixing + mix down to stereo
+## Preparing your file for spatial mixing + mix down to stereo
 
 Please prepare your musical project for spatial mixing during session 12.  There are a few options:
 
