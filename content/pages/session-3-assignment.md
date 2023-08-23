@@ -5,7 +5,7 @@ draft: false
 title: Session 3 Assignment
 uid: bebf9bcc-e1d3-45b5-9b75-be555f26fd64
 ---
-**Please make a beat and come prepared to share it with the class.**
+## Please make a beat and come prepared to share it with the class.
 
 I encourage people to download a (free) trial version of [Ableton Live](https://www.ableton.com/en/live/). If you prefer to use a different DAW (digital audio workstation), I’m open, but let’s discuss. 
 
@@ -15,7 +15,7 @@ You may use a combination of samples, but I encourage working with the MIDI “p
 
 If you have time, I encourage you to experiment with different kinds of beats and audio sources. Best is to try to make several examples, and then choose your favorite to demo.
 
-### Resources
+## Resources
 
 Please start here, so we have some shared knowledge. Afterwards, exploring beyond is fine.
 
