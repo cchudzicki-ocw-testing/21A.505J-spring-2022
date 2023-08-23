@@ -5,7 +5,7 @@ draft: false
 title: Session 7 Assignment
 uid: 8e8877ac-f352-459f-bb2c-3c8a19cd287b
 ---
-### Mid-Term Sharing of Sound Object Project (brief demo of progress)
+## Mid-Term Sharing of Sound Object Project (brief demo of progress)
 
 Please come to class prepared to share a sample of your work so far on your sound object, duration of roughly 1 1/2 to 4 minutes long.  The length is flexible.  
 
