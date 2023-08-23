@@ -2,7 +2,7 @@
 content_type: resource-list
 description: "The following lecture slides were utilized during this course.\_\n\n\
   Note: There aren\u2019t any lecture slides for sessions 1, 3, 5, 7, 9, 11, and 13."
-draft: false
+draft: true
 resources:
   content:
   - de312e2c-bdd8-45a1-ac09-142661b502e8
