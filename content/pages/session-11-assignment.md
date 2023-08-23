@@ -26,6 +26,6 @@ The short version is this:  
 4. If you like, you can also experiment with other Envelop for Live tools, such as the multi delay or spatial slicer.
 5. If you don't get too far with the spatialization, that's OK. Keep working your composition, your mix, your effects, and your process.
 
-Remember the Tomo Fujita rules for music learning: Don't worry. Don't compare.  Don't expect too fast.  Be kind to yourself.  
+Remember the Tomo Fujita rules for music learning: Don't worry. Don't compare. Don't expect too fast. Be kind to yourself.  
 
 Good luck, and see you during session 12.
