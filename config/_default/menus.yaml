@@ -11,10 +11,14 @@ leftnav:
   name: Readings
   pageRef: /pages/readings
   weight: 30
+- identifier: d4eeb698-28d9-4856-87f9-5becb825e673
+  name: Lecture Slides
+  pageRef: /lists/lecture-slides
+  weight: 40
 - identifier: 3adf174e-7941-4d88-9854-eb4b1eb6c643
   name: Assignments
   pageRef: /pages/assignments
-  weight: 40
+  weight: 50
 - identifier: bebf9bcc-e1d3-45b5-9b75-be555f26fd64
   name: Session 3 Assignment
   pageRef: /pages/session-3-assignment
